@@ -8,4 +8,4 @@
 
 ## scoring list
 
-## conclution
+## conclusion
