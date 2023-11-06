@@ -67,16 +67,16 @@ Nama "mux" dalam Gorilla Mux merupakan singkatan dari "HTTP request multiplexer"
 | Maintenance     | 4   | 4     | 4           |
 | Reputable       | 4   | 4     | 4           |
 | Compatibility   | 4   | 4     | 4           |
-| Community       | 4   | 4     | 3           |
+| Community       | 3   | 4     | 3           |
 | Documentation   | 4   | 4     | 3           |
 | Licensing       | 4   | 4     | 4           |
 | Extensible      | 3   | 4     | 3           |
-| Size            | 4   | 2     | 4           |
-| **Total Score** | 31  | 30    | 29          |
+| Size            | 4   | 3     | 4           |
+| **Total Score** | 30  | 31    | 29          |
 
 ## conclusion
 
-Saat ini framework yang sedang ramai dibicarakan adalan Gin dan Fiber. Jika ingin memprioritaskan kinerja tinggi dan memiliki pengalaman dengan Go, Gin mungkin merupakan pilihan yang lebih baik untuk aplikasi yang kompleks dan *high traffic*. Di sisi lain, jika menginginkan kesederhanaan, *asynchronus handling*, dan minimalis, Fiber bisa menjadi pilihan yang tepat, terutama untuk proyek berukuran kecil hingga menengah.
+Saat ini framework yang sedang ramai dibicarakan adalan Gin dan Fiber. Jika ingin memprioritaskan kinerja tinggi dan memiliki pengalaman dengan Go, Gin mungkin merupakan pilihan yang lebih baik untuk aplikasi yang kompleks dan *high traffic*. Di sisi lain, jika menginginkan kesederhanaan, *asynchronus handling*, dan minimalis, Fiber bisa menjadi pilihan yang tepat, terutama untuk proyek berukuran kecil hingga menengah. Berdasarkan score yang didapat, Fiber memiliki angka yang lebih besar. Fiber juga sudah digunakan di hampir semua project milik Telkomsel. Jadi untuk framework gunakan Fiber.
 
 ## Reference
 
