@@ -15,7 +15,7 @@ Kerangka kerja web reaktif yang dibangun di atas _Reactive Streams_. Ini diranca
 | Komponen          | Spring Web | Spring WebFlux |
 | :---------------- | :--------: | :------------: | 
 | Maintenance       | 4          | 4              |
-| Reputable         | 4          | 2              |
+| Reputable         | 4          | 4              |
 | Compatibility     | 4          | 4              |
 | Community         | 4          | 4              |
 | Documentation     | 4          | 4              |
