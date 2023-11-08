@@ -15,7 +15,9 @@ Concurrency dalam Node.js dapat dicapai dengan menggunakan berbagai teknik, sepe
 3. **Async/Await**: Async/await adalah sintaks khusus yang dibuat untuk bekerja dengan promises dengan cara yang lebih nyaman. Fungsi async memastikan bahwa fungsi mengembalikan promise, dan ekspresi await digunakan untuk menunggu promise diselesaikan.
 
 ## Conclusion
+
 Berdasarkan penjelasan diatas, dinyatakan bahwa Node.js Native Concurrency menjadi pilihan kami untuk menghandle Concurrency.
 
 ## Referensi
+
 - [A simple guide to JavaScript concurrency in Node.js and a few traps that come with it](https://tsh.io/blog/simple-guide-concurrency-node-js/)

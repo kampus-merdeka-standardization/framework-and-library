@@ -4,7 +4,6 @@
 
 Dalam konteks pengembangan backend, antrian (queue) adalah struktur data yang digunakan untuk menangani permintaan dalam urutan First In, First Out (FIFO). Ini berarti bahwa permintaan yang masuk pertama kali akan diproses pertama kali.
 
-
 ## @nestjs/microservices Queue
 
 Queue dalam @nestjs/microservices merujuk ke mekanisme di mana pesan dikirim dan diterima dalam urutan First In, First Out (FIFO). Dalam NestJS, Anda dapat menggunakan queue untuk mengirim (TO) dan menerima (Process) pesan antara komponen independen secara asynchronous.

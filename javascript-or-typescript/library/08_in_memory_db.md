@@ -33,12 +33,11 @@ Hubungan antara Redis dan In-Memory Database (IMDB) adalah bahwa Redis adalah je
 - **Documentation**: Memiliki dokumentasi yang lengkap dan terstruktur dengan baik, ioredis mendapatkan skor 4.
 - **Licensing**: Sebagai perangkat lunak open source, ioredis mendapatkan skor 4.
 - **Extensible**: ioredis mudah diperluas dan mendukung berbagai fitur, sehingga mendapatkan skor 4.
-- **Size**: Ukuran library ioredis relatif kecil, sehingga mendapatkan skor 4. 
+- **Size**: Ukuran library ioredis relatif kecil, sehingga mendapatkan skor 4.
 
 ## Conclusion
 
 Berdasarkan skor yang tinggi pada setiap kriteria penilaian, ioredis terpilih sebagai klien Redis utama untuk pengembangan backend menggunakan NestJS. Kemampuannya yang kuat, fitur-fitur lengkap, dan dukungan komunitas yang solid menjadikannya pilihan yang handal untuk proyek-proyek yang memerlukan database in-memory dengan akses yang cepat dan efisien.
-
 
 ## Referensi
 

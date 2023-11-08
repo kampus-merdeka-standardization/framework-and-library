@@ -12,7 +12,6 @@ Multer menambahkan objek body dan file atau files ke objek permintaan. Objek bod
 
 ## Scoring sheet
 
-
 | Kriteria       | Multer |
 | -------------- | ------ |
 | Maintenance    | 1      |

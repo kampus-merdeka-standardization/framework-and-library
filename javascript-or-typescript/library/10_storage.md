@@ -4,7 +4,6 @@
 
 Storage merujuk ke tempat di mana data disimpan dan dikelola. Ini melibatkan segala sesuatu yang ada di server, termasuk pemodelan data dan penyimpanan hingga masalah keamanan.
 
-
 ## Minio
 
 **MinIO** adalah penyimpanan objek berkinerja tinggi yang dirilis di bawah Lisensi Publik Umum GNU Affero v3.0. MinIO kompatibel dengan layanan penyimpanan cloud Amazon S3. MinIO dapat menangani data tak terstruktur seperti foto, video, file log, cadangan, dan gambar.

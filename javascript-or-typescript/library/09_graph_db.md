@@ -31,13 +31,11 @@ neo4j-driver adalah driver resmi yang dibuat oleh tim Neo4j untuk memungkinkan i
 - **Documentation**: Memiliki dokumentasi yang lengkap dan terstruktur dengan baik, neo4j-driver mendapatkan skor 4.
 - **Licensing**: Sebagai perangkat lunak open source, neo4j-driver mendapatkan skor 4.
 - **Extensible**: neo4j-driver mudah diperluas dan mendukung berbagai fitur, sehingga mendapatkan skor 4.
-- **Size**: Ukuran library neo4j-driver relatif kecil, sehingga mendapatkan skor 4. 
-
+- **Size**: Ukuran library neo4j-driver relatif kecil, sehingga mendapatkan skor 4.
 
 ## Conclusion
 
 neo4j-driver adalah pilihan yang sangat baik untuk mengembangkan backend NestJS dengan fokus pada data yang sangat terhubung, menjadikannya pilihan utama kami untuk proyek yang memerlukan database graf.
-
 
 ## Referensi
 
