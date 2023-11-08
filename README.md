@@ -10,8 +10,10 @@ Framework adalah struktur kerja yang menyediakan pedoman, alat, dan komponen das
 
 - [Javascript/Typescript](/javascript-or-typescript/framework/README.md)
 
+  Pada bagian framework ini, hanya akan membahas 2 framework yaitu NestJS dan ExpressJS
+
 # Library
-Library Definition
+  library adalah kumpulan kode yang disusun dalam modul atau paket yang dapat digunakan kembali dalam aplikasi lain. Library biasanya menyediakan fungsi atau fitur tertentu yang dapat digunakan oleh aplikasi lain tanpa perlu menulis ulang kode tersebut.
 
 - [Golang](/golang/library/README.md)
   
@@ -20,3 +22,6 @@ Library Definition
 - [Java](/java/library/README.md)
 
 - [Javascript/Typescript](javascript-or-typescript/library/README.md)
+
+  Ekosistem Node.js merujuk pada kumpulan library, kerangka kerja, alat, dan sumber daya yang mendukung lingkungan runtime Node.js.
+  Registry npm, yang merupakan pusat berbagi kode JavaScript, memiliki lebih dari dua juta paket, menjadikannya registry perangkat lunak terbesar di dunia. Ini mencakup berbagai jenis library, mulai dari yang sederhana seperti library untuk memanipulasi string atau tanggal, hingga yang kompleks seperti kerangka kerja web dan library untuk bekerja dengan database.
