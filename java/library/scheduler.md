@@ -8,8 +8,7 @@ Library scheduler digunakan untuk menjadwalkan tugas atau pekerjaan dalam aplika
 
 ## Quartz Scheduler
 
-**Quartz Scheduler** adalah kerangka kerja penjadwalan yang lengkap yang memungkinkan eksekusi tugas berbasis CRON atau periodik sederhana. Quartz adalah orde lebih kompleks daripada penjadwal bawaan Spring, termasuk dukungan untuk pekerjaan persisten, transaksional, dan terdistribusi. Quartz mungkin sedikit sulit, bahkan dengan dukungan API Spring. Namun, Quartz memberikan dukungan untuk fitur tingkat perusahaan seperti JTA dan clustering; ini datang dengan JobPersistence (penyimpanan JDBC & RAM) yang dapat digunakan untuk tujuan Fail-safe & Load Balancing.
-
+**Quartz Scheduler** adalah kerangka kerja penjadwalan pekerjaan open source yang dapat diintegrasikan dengan hampir semua aplikasi Java. Quartz dapat digunakan untuk membuat jadwal sederhana atau kompleks untuk menjalankan puluhan, ratusan, atau bahkan puluhan ribu pekerjaan. Quartz mendukung banyak fitur kelas enterprise, seperti dukungan untuk transaksi JTA dan klustering. Kita dapat membuat jadwal kompleks untuk menjalankan pekerjaan apa pun.
 
 
 ## Scoring sheet
@@ -29,3 +28,8 @@ Library scheduler digunakan untuk menjadwalkan tugas atau pekerjaan dalam aplika
 ## Conclusion
 
 Berdasarkan Score di atas, _Spring scheduler_ memiliki penilaian yang lebih besar. Walau begitu _Quartz Scheduler_ memiliki lebih banyak fitur yang tidak dimiliki _Spring Scheduler_
+
+## References
+- [A Guide to the Spring Task Scheduler | Baeldung](https://www.baeldung.com/spring-task-scheduler)
+- [Quartz Enterprise Job Scheduler](https://www.quartz-scheduler.org/)
+- [Introduction to Quartz | Baeldung](https://www.baeldung.com/quartz)
