@@ -8,6 +8,8 @@ Framework adalah struktur kerja yang menyediakan pedoman, alat, dan komponen das
 
 - [Java](/java/framework/README.md)
 
+  Pada bagian framework ini, hanya akan membahas 2 framework yaitu Spring dan Quarkus
+
 - [Javascript/Typescript](/javascript-or-typescript/framework/README.md)
 
   Pada bagian framework ini, hanya akan membahas 2 framework yaitu NestJS dan ExpressJS
@@ -20,6 +22,8 @@ Framework adalah struktur kerja yang menyediakan pedoman, alat, dan komponen das
   Library dalam bahasa pemrograman Go (Golang) merujuk pada kumpulan paket atau modul yang telah dikembangkan dan dapat digunakan kembali untuk menyederhanakan pengembangan perangkat lunak. Go memiliki ekosistem library yang cukup luas, yang mencakup berbagai bidang seperti pemrosesan data, pengembangan web, keamanan, dan lainnya. Dengan menggunakan library, para developer dapat menghemat waktu dan upaya dalam membangun aplikasi, karena mereka dapat memanfaatkan kode yang sudah ada untuk menyelesaikan tugas-tugas umum atau kompleks.
 
 - [Java](/java/library/README.md)
+
+  Library dalam konteks Java merujuk pada kumpulan kode yang telah dikembangkan untuk menyediakan fungsionalitas tertentu. Library biasanya berisi modul atau paket yang dapat digunakan ulang dalam berbagai proyek. Fungsinya adalah menyederhanakan pengembangan dengan menyediakan implementasi kelas, metode, atau fungsi yang umum digunakan.
 
 - [Javascript/Typescript](javascript-or-typescript/library/README.md)
 
