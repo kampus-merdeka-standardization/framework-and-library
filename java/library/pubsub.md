@@ -1,5 +1,7 @@
 ## Definition
 
+Messaging pubsub (publish-subscribe) adalah model komunikasi yang digunakan dalam sistem terdistribusi di mana komponen-komponen aplikasi dapat mengirim (publish) pesan ke topik atau kanal tertentu, dan komponen-komponen lain yang berlangganan (subscribe) ke topik atau kanal yang sama akan menerima pesan tersebut secara asinkron.
+
 ## Camel Spring Boot
 
 Camel Spring Boot adalah komponen dari Apache Camel yang menyediakan auto-konfigurasi untuk Apache Camel dalam aplikasi Spring Boot. Ini memungkinkan Anda untuk mengembangkan aplikasi Spring Boot menggunakan starter.

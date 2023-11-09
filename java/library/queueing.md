@@ -1,5 +1,7 @@
 ## Definition
 
+Messaging queue adalah sistem perangkat lunak yang digunakan untuk mengirim, menerima, dan mengelola pesan antara komponen atau aplikasi yang beroperasi secara terdistribusi. Ini memungkinkan aplikasi untuk berkomunikasi secara asinkron, memisahkan produsen pesan (pengirim) dari konsumen pesan (penerima), dan dapat digunakan untuk mengatasi lonjakan lalu lintas, menjaga keseimbangan beban, dan memastikan skalabilitas dalam lingkungan sistem yang besar dan kompleks. 
+
 ## Camel Spring Boot
 
 Camel Spring Boot adalah komponen dari Apache Camel yang menyediakan auto-konfigurasi untuk Apache Camel dalam aplikasi Spring Boot. Ini memungkinkan Anda untuk mengembangkan aplikasi Spring Boot menggunakan starter.
