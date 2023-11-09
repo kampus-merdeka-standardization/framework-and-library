@@ -11,3 +11,7 @@ Spring Data memudahkan penggunaan teknologi akses data, database relasional dan 
 Spring Data JPA sendiri adalah abstraksi dari lapisan akses data. Di dalam Spring Data JPA ini tersedia beberapa macam repositori yang dirakit dengan fungsi CRUD dasar untuk memudahkan kita membangun aplikasi.
 
 Jadi, dengan menggunakan Spring Data, kita dapat fokus pada kelas yang sudah dipetakan ke tabel-tabel di database dan tidak perlu repot mengurusi lapisan database.
+
+## Conclusion
+
+Memilih library Spring Data sebagai library document database. Karena library ini menyediakan dukungan untuk berbagai database yang berbasis dokumen, seperti MongoDB, Elasticsearch, Couchbase, dan lain-lain. Spring Data juga menyediakan fitur-fitur tambahan, seperti konversi, indeks, auditing, paging, sorting, dan lain-lain. 
