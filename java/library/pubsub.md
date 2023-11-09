@@ -30,7 +30,12 @@ Camel Spring Boot dapat digunakan untuk implementasi pola Publish-Subscribe. Pol
 
 Contoh kode untuk implementasi pola Publish-Subscribe dengan Camel Spring Boot dapat dilihat di [sini](https://github.com/jrmsamson/spring-boot-camel-publish-subscribe-pattern).
 
-Source: Conversation with Bing, 11/9/2023
+## Conclusion
+
+Memilih library Camel Spring Boot sebagai library PubSub. Karena library ini menyediakan integrasi yang mudah dan cepat antara Apache Camel dan Spring Boot. Apache Camel adalah framework open source yang mendukung berbagai pola integrasi enterprise, seperti routing, transformation, filtering, splitting, aggregation, dan lain-lain. Spring Boot adalah framework yang memungkinkan pembuatan aplikasi Spring berbasis Java dengan konfigurasi minimal. Dengan menggunakan library Camel Spring Boot, developer dapat memanfaatkan fitur-fitur dari kedua framework tersebut, seperti auto-configuration, dependency injection, component scanning, dan lain-lain.
+
+## References
+
 - [Spring Boot :: Apache Camel](https://camel.apache.org/camel-spring-boot/4.0.x/spring-boot.html)
 - [Publish Subscribe Channel :: Apache Camel](https://camel.apache.org/components/4.0.x/eips/publish-subscribe-channel.html)
 - [Apache Camel with Spring Boot | Baeldung](https://www.baeldung.com/apache-camel-spring-boot)
