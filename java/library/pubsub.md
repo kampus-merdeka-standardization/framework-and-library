@@ -6,7 +6,7 @@ Camel Spring Boot adalah komponen dari Apache Camel yang menyediakan auto-konfig
 
 Komponen ini secara otomatis mendeteksi rute Camel yang tersedia dalam konteks Spring dan mendaftarkan utilitas Camel utama (seperti template produsen, template konsumen, dan konverter tipe) sebagai bean.
 
-Untuk menggunakan Camel Spring Boot, Anda perlu menambahkan dependensi berikut ke file pom.xml Spring Boot Anda¹:
+Untuk menggunakan Camel Spring Boot, Anda perlu menambahkan dependensi berikut ke file pom.xml Spring Boot Anda:
 
 ```xml
 <dependency>
@@ -16,7 +16,7 @@ Untuk menggunakan Camel Spring Boot, Anda perlu menambahkan dependensi berikut k
 </dependency>
 ```
 
-Setelah dependensi ini ditambahkan ke classpath Anda, Spring Boot akan secara otomatis mengkonfigurasi Camel untuk Anda¹. Anda kemudian dapat menambahkan kelas dengan rute Camel Anda, dan rute-rute ini akan dimulai secara otomatis.
+Setelah dependensi ini ditambahkan ke classpath Anda, Spring Boot akan secara otomatis mengkonfigurasi Camel untuk Anda. Anda kemudian dapat menambahkan kelas dengan rute Camel Anda, dan rute-rute ini akan dimulai secara otomatis.
 
 Camel Spring Boot dapat digunakan untuk implementasi pola Publish-Subscribe. Pola Publish-Subscribe adalah salah satu pola Enterprise Integration Patterns yang didukung oleh Apache Camel. Pola ini memungkinkan pengirim untuk menyiarkan sebuah peristiwa ke semua penerima yang tertarik. Untuk menggunakan pola ini dengan Camel Spring Boot, kita dapat melakukan beberapa langkah berikut:
 
