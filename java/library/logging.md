@@ -36,7 +36,7 @@ Berikut adalah beberapa fitur utama dari Log4j21:
 | **Average Score** | 4       | 3.875  |
 
 ## Conclusion
-Berdasarkan nilai skoring, tampak Logback memiliki penilaian yang lebih tinggi, akan tetapi Log4j2 memiliki sejumlah peningkatan dari Logback, terutama dalam hal vurnabilities
+Berdasarkan nilai skoring, tampak Logback memiliki penilaian yang lebih tinggi, akan tetapi Log4j2 memiliki sejumlah peningkatan dari Logback, terutama dalam hal vulnerabilities
 
 ## References
 - [A Guide To Logback | Baeldung](https://www.baeldung.com/logback)
