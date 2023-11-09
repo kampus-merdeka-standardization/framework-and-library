@@ -12,9 +12,19 @@ Selain menghubungkan komponen berskala kecil, Spring Integration menyediakan ber
 
 Spring Integration juga digunakan sebagai mesin untuk _microservice_ yang didorong oleh pesan dalam proyek Spring Cloud Stream.
 
-Spring Integration dapat digunakan untuk melakukan operasi berkas (file operations) dan mengintegrasikan operasi berkas ke dalam aliran data aplikasi Anda.
+Spring Integration dapat digunakan untuk melakukan operasi berkas (file operations) dan mengintegrasikan operasi berkas ke dalam aliran data aplikasi Anda. 
+
+Spring Integration mendukung operasi _non-blocking_ melalui penggunaan _Non-Blocking_ I/O (NIO)
 
 ## Conclusion
 
-Gunakanlah Spring Integration dalam **File Operation** dikarenakan Spring Integration juga mendukung non-blocking.
+Memilih Spring Integration sebagai library File Operation. Karena library ini menyediakan berbagai komponen yang dapat memudahkan dan memperkaya integrasi file dalam aplikasi Spring. Library ini mengimplementasikan pola-pola integrasi enterprise, seperti messaging, routing, transformation, filtering, dan lain-lain, yang dapat meningkatkan fleksibilitas, modularitas, dan keterbukaan aplikasi. Selain itu Spring integration juga mendukung operasi _non-blocking_
 
+## References
+- [Spring Integration](https://spring.io/projects/spring-integration/)
+
+- [Introduction to Spring Integration | Baeldung](https://www.baeldung.com/spring-integration)
+
+- [Overview of Spring Integration Framework](https://docs.spring.io/spring-integration/docs/current/reference/html/overview.html)
+
+- [Introduction to Spring Integration | Baeldung](https://www.baeldung.com/spring-integration)
