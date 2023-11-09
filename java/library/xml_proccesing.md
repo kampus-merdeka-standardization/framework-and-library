@@ -18,6 +18,19 @@ Untuk menggunakan paket ini, Anda perlu menggunakan dependensi Maven berikut:
 ```
 Kita juga dapat mengunduh jar dari repositori Maven atau tautan di Wiki. Paket ini tidak memiliki dependensi eksternal, kecuali untuk pengujian (yang menggunakan JUnit).
 
+## Conclusion
+Memilih library `Jackson Core` sebagai library XML Processing. Karena memberikan kontrol penuh dan fleksibilitas kepada developer untuk memproses XML sesuai dengan kebutuhan aplikasi. Developer dapat menentukan bagaimana cara mengurai, memvalidasi, mengubah, atau memanipulasi data XML dengan mudah dan efisien. Selain itu, library Jackson Core juga mendukung berbagai format XML, seperti XML standar, XML kompak (Smile), XML biner (CBOR), dan XML dengan komentar. Library Jackson Core juga kompatibel dengan library Jackson lainnya, seperti Jackson Databind dan Jackson Annotation, yang menyediakan fitur tambahan seperti data binding, konversi, dan anotasi. Library Jackson Core juga dapat digunakan untuk mengonversi data antara JSON dan XML, atau antara format lain yang didukung oleh Jackson
+
 - [FasterXML/jackson-core: Core part of Jackson that defines Streaming API as well as basic shared abstractions](https://github.com/FasterXML/jackson-core)
+
 - [FasterXML/jackson: Main Portal page for the Jackson project - GitHub](https://github.com/FasterXML/jackson)
+
 - [Releases · FasterXML/jackson-core · GitHub](https://github.com/FasterXML/jackson-core/releases)
+
+- [Solving the XML Problem with Jackson - Stackify](https://stackify.com/java-xml-jackson/)
+
+- [FasterXML/jackson: Main Portal page for the Jackson project - GitHub](https://github.com/FasterXML/jackson)
+
+- [Processing JSON With Jackson - DZone](https://dzone.com/articles/processing-json-with-jackson)
+
+- [Processing JSON with Jackson - Spring Framework Guru](https://springframework.guru/processing-json-jackson/)
