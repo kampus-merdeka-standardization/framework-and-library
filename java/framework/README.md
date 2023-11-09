@@ -58,7 +58,10 @@ Secara keseluruhan, Quarkus adalah kerangka kerja yang sangat baik untuk pengemb
 
 ## conclusion
 
-Memilih Spring Framework jika memerlukan kerangka kerja yang mapan dengan komunitas besar, fleksibilitas untuk berbagai jenis aplikasi, atau jika sudah memiliki pengalaman dengan ekosistem Spring. Juga, Spring cocok untuk aplikasi Java stand-alone yang lebih umum.
+Berdasarkan hasil skoring, Spring Framework tampak memiliki nilai yang lebih tinggi dibandingkan dengan Quarkus.
+
+Beberapa pertimbangan :
+Memilih Spring Framework jika memerlukan kerangka kerja yang mapan dengan komunitas besar, fleksibilitas untuk berbagai jenis aplikasi, atau jika sudah memiliki pengalaman dengan ekosistem Spring. Selain itu, Spring sangat sesuai untuk pengembangan aplikasi Java stand-alone yang umum digunakan.
 
 Sementara itu, Quarkus Framework lebih cocok jika kita perlu fokus pada pengoptimalan waktu boot dan penggunaan memori rendah, terutama untuk aplikasi yang akan dijalankan di lingkungan cloud atau serverless. Juga, jika kita memerlukan fitur hot reload dan alat observasi secara out-of-the-box, Quarkus dapat menjadi pilihan yang baik.
 
