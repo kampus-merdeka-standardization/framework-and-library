@@ -80,6 +80,8 @@ Berdasarkan score yang didapat, library go-json memiliki angka yang paling besar
 
 ### Packaging Tools
 
+Untuk Packaging Tools gunakan Go Modules. Go modules meruapakan manajemen dependensi resmi untuk Go.
+
 ### SDK
 
 ## Framework
