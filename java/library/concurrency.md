@@ -28,6 +28,12 @@ Spring Context menangani concurrency dengan beberapa cara:
 
 Dengan demikian, Spring Context menawarkan berbagai cara untuk menangani concurrency.
 
+## Conclusion
+
+Memilih library Spring Context sebagai library concurrency. Karena library ini menyediakan dukungan untuk pemrograman reaktif, yang merupakan paradigma pemrograman yang memungkinkan aplikasi untuk menangani banyak permintaan secara asinkron dan non-blocking. Pemrograman reaktif dapat meningkatkan kinerja, skalabilitas, dan efisiensi sumber daya aplikasi, terutama dalam skenario dengan beban tinggi atau latensi tinggi.  Library Spring Context sebagai dapat memberikan keuntungan berupa kemampuan untuk membangun aplikasi web reaktif yang responsif, resilien, dan elastis.
+
+## References
+
 - [What is the meaning of "context" in Spring? - Stack Overflow](https://stackoverflow.com/questions/58245160/what-is-the-meaning-of-context-in-spring)
 - [What Is a Spring Context? - DZone](https://dzone.com/articles/what-is-a-spring-context)
 - [The Spring ApplicationContext | Baeldung](https://www.baeldung.com/spring-application-context)
@@ -36,3 +42,4 @@ Dengan demikian, Spring Context menawarkan berbagai cara untuk menangani concurr
 - [How Does the Spring Singleton Bean Serve Concurrent Requests?](https://www.baeldung.com/spring-singleton-concurrent-requests)
 - [Threading and Concurrency in Spring Boot applications - IBM](https://www.ibm.com/docs/en/cics-ts/5.6?topic=applications-threading-concurrency-in-spring-boot)
 - [How does Spring bean Handle concurrency - Stack Overflow](https://stackoverflow.com/questions/13776728/how-does-spring-bean-handle-concurrency)
+- [java - Creating Spring context in a library - Stack Overflow](https://stackoverflow.com/questions/70398527/creating-spring-context-in-a-library)
