@@ -16,7 +16,7 @@ Dikarenakan `WebClient` akan menggantikan `RestTemplate`, maka direkomendasikan 
 
 ### Configuration
 
-
+Memilih Spring Cloud Consul dipilih sebagai library configuration karena menyediakan integrasi Consul untuk aplikasi Spring Boot melalui autoconfiguration dan binding ke Spring Environment dan idiom pemrograman Spring lainnya. Dengan beberapa anotasi sederhana, kita dapat dengan cepat mengaktifkan dan mengkonfigurasi pola umum di dalam aplikasi kita dan membangun sistem terdistribusi besar dengan Consul dari Hashicorp. Pola yang disediakan meliputi Service Discovery, Distributed Configuration, dan Control Bus 
 
 ### Monitoring
 
