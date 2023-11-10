@@ -4,7 +4,7 @@
 
 ### Web
 
-
+Gunakanlah Spring Boot sebagai Library web, dikarenakan Spring Boot adalah salah satu _framework_ Spring untuk membangun aplikasi web dan _microservice_ berbasis Java.
 
 ### Logging
 
@@ -102,9 +102,14 @@ Memilih library `Jackson Core` sebagai library XML Processing. Karena memberikan
 ### JSON Processing
 
 Memilih library `Jackson Core`. Karena memberikan kontrol penuh dan fleksibilitas kepada developer untuk memproses JSON sesuai dengan kebutuhan aplikasi. Developer dapat menentukan bagaimana cara mengurai, memvalidasi, mengubah, atau memanipulasi data JSON dengan mudah dan efisien. Selain itu, library Jackson Core juga mendukung berbagai format JSON, seperti JSON standar, JSON kompak (Smile), JSON biner (CBOR), dan JSON dengan komentar. Library Jackson Core juga kompatibel dengan library Jackson lainnya, seperti Jackson Databind dan Jackson Annotation, yang menyediakan fitur tambahan seperti data binding, konversi, dan anotasi.
+
 ### Packaging Tools
 
+Berdasarkan hasil skoring yang dilakukan, Maven memiliki nilai yang lebih tinggi, maka dari itu, kita memakai Maven sebagai packaging tools Java.
+
 ### SDK
+
+Berdasarkan hasil skoring, terlihat bahwa java 21 memiliki nilai yang lebih baik. Untuk itu gunakanlah java versi 21. Java 21 juga mendukung banyak sekali fitur-fitur canggih yang sangat penting dalam proses pengembangan.
 
 ## Framework
 
