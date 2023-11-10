@@ -83,5 +83,14 @@ Scheduler dalam pengembangan backend merujuk ke mekanisme yang memungkinkan Anda
 CLI Operation merujuk kepada penggunaan Command Line Interface (CLI) untuk melakukan operasi atau tugas-tugas pengembangan. CLI adalah antarmuka berbasis teks yang memungkinkan pengguna untuk memasukkan perintah secara langsung ke sistem operasi atau aplikasi dengan menggunakan baris perintah atau terminal.
 
 ## [XML Processing](/javascript-or-typescript/library/xml_processing.md)
+
+dikarenakan NestJS memiliki XML parser bawaaan, jadi pilihan utama tetap menggunakan XML yang berada pada native Nest
+
 ## [Packaging Tools](/javascript-or-typescript/library/packaging_tools.md)
+
+Dikarenakan skoring npm lebih tinggi dan memiliki banyak fitur, jadi kami memilih npm sebagai Packaging Tools utama.
+
 ## [sdk](/javascript-or-typescript/library/sdk.md)
+
+Untuk Node JS version, kami memilih versi 20.9.0 LTS sebagai acuan untuk digunakan pada proyek-proyek kedepannya.
+
