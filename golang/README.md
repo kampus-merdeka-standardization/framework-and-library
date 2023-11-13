@@ -86,6 +86,8 @@ Untuk Packaging Tools gunakan Go Modules. Go modules meruapakan manajemen depend
 
 Berdasarkan [web resmi golang](https://go.dev/dl/), versi yang sudah stable adalah go.1.21 dan go 1.20. Jadi gunakan versi Golang 1.20 keatas.
 
+### Unit Test
+
 ## Framework
 
 Saat ini framework yang sedang ramai dibicarakan adalan Gin dan Fiber. Jika ingin memprioritaskan kinerja tinggi dan memiliki pengalaman dengan Go, Gin mungkin merupakan pilihan yang lebih baik untuk aplikasi yang kompleks dan *high traffic*. Di sisi lain, jika menginginkan kesederhanaan, *asynchronus handling*, dan minimalis, Fiber bisa menjadi pilihan yang tepat, terutama untuk proyek berukuran kecil hingga menengah. Berdasarkan score yang didapat, Fiber memiliki angka yang lebih besar. Fiber juga sudah digunakan di hampir semua project milik Telkomsel. Jadi untuk framework gunakan [Fiber](https://github.com/gofiber/fiber).
