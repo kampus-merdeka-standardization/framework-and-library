@@ -30,7 +30,7 @@ Mocha adalah sebuah framework pengujian JavaScript yang kaya fitur dan berjalan 
 Berdasarkan skor tinggi yang diperoleh oleh Jest dan beragam fitur yang ditawarkannya, kami menyimpulkan bahwa Jest adalah pilihan utama untuk pengembangan proyek backend menggunakan NestJS. Kombinasi antara keandalan, kompatibilitas, dan komunitas yang kuat membuat Jest menjadi alat yang sangat efektif untuk unit testing dalam lingkungan Node.js, khususnya dengan NestJS.
 
 
-## Referensi:
+## Referensi
 
 - [jest - npm](https://www.npmjs.com/package/jest)
 - [mocha - npm](https://www.npmjs.com/package/mocha)
