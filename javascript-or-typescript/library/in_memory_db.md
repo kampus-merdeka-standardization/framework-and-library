@@ -26,15 +26,6 @@ Hubungan antara Redis dan In-Memory Database (IMDB) adalah bahwa Redis adalah je
 | Size         | 4       |
 | **Total Skor** | **30**  |
 
-- **Maintenance**: ioredis mendapatkan skor 2 karena rilis terakhir pada tanggal 15 April 2023 (7 Bulan dari saat dokumen ini dibuat).
-- **Reputable**: Sebagai klien Redis yang kuat dan berfokus pada kinerja untuk Node.js, ioredis mendapatkan skor 4.
-- **Compatibility**: ioredis mendukung Cluster, Sentinel, Streams, Pipelining, dan tentu saja scripting Lua, Redis Functions, Pub/Sub (dengan dukungan pesan biner), sehingga mendapatkan skor 4.
-- **Community**: Dengan komunitas pengguna yang besar dan aktif, ioredis mendapatkan skor 4.
-- **Documentation**: Memiliki dokumentasi yang lengkap dan terstruktur dengan baik, ioredis mendapatkan skor 4.
-- **Licensing**: Sebagai perangkat lunak open source, ioredis mendapatkan skor 4.
-- **Extensible**: ioredis mudah diperluas dan mendukung berbagai fitur, sehingga mendapatkan skor 4.
-- **Size**: Ukuran library ioredis relatif kecil, sehingga mendapatkan skor 4.
-
 ## Conclusion
 
 Berdasarkan skor yang tinggi pada setiap kriteria penilaian, ioredis terpilih sebagai klien Redis utama untuk pengembangan backend menggunakan NestJS. Kemampuannya yang kuat, fitur-fitur lengkap, dan dukungan komunitas yang solid menjadikannya pilihan yang handal untuk proyek-proyek yang memerlukan database in-memory dengan akses yang cepat dan efisien.

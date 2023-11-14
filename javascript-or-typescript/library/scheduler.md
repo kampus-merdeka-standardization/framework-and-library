@@ -22,17 +22,6 @@ Scheduler dalam pengembangan backend merujuk ke mekanisme yang memungkinkan Anda
 | Size         | 3            |
 | **Total Skor** | **31**       |
 
-### Penjelasan
-
-- **Maintenance**: Paket ini diperbarui 16 hari yang lalu, menunjukkan bahwa pemeliharaannya aktif.
-- **Reputable**: Paket ini dibuat oleh tim NestJS, yang dikenal secara global dan memiliki reputasi baik dalam pengembangan Node.js.
-- **Compatibility**: @nestjs/schedule dirancang untuk bekerja dengan NestJS, sebuah kerangka kerja Node.js yang populer.
-- **Community**: Paket ini digunakan oleh banyak proyek lain di npm, menunjukkan bahwa memiliki komunitas pengguna yang besar.
-- **Documentation**: Dokumentasi untuk @nestjs/schedule tersedia di situs web NestJS.
-- **Licensing**: Paket ini berlisensi MIT, yang merupakan lisensi open source.
-- **Extensible**: Dengan NestJS, Anda dapat dengan mudah memperluas fungsionalitas paket ini.
-- **Size**: Ukuran paket ini adalah 46.6 kB, yang cukup kecil dan efisien.
-
 ## Conclusion
 
 Berdasarkan skor tinggi dan banyak fitur yang ditawarkan oleh @nestjs/schedule, paket ini merupakan pilihan yang sangat baik untuk kebutuhan scheduling dalam pengembangan backend menggunakan NestJS.

@@ -25,16 +25,6 @@ Zipkin adalah sistem penelusuran terdistribusi yang dirancang untuk memudahkan p
 | Ukuran         | 4      |
 | **Total Skor** | **32** |
 
-- **Maintenance**: Zipkin mendapatkan skor 4 karena memiliki pemeliharaan yang rutin dan teratur.
-- **Reputable**: Sebagai proyek open source yang awalnya dikembangkan oleh Twitter dan sekarang dikelola oleh organisasi sukarelawan OpenZipkin, Zipkin mendapatkan skor 4.
-- **Compatibility**: Zipkin mendukung berbagai bahasa pemrograman dan protokol, termasuk HTTP dan gRPC, sehingga mendapatkan skor 4.
-- **Community**: Dengan komunitas pengguna yang besar dan aktif, Zipkin mendapatkan skor 4.
-- **Documentation**: Memiliki dokumentasi yang lengkap dan terstruktur dengan baik, Zipkin mendapatkan skor 4.
-- **Licensing**: Sebagai perangkat lunak open source, Zipkin mendapatkan skor 4.
-- **Extensible**: Dapat diperluas dengan berbagai cara, termasuk melalui pustaka pelacak atau instrumen, Zipkin mendapatkan skor 4.
-- **Size**: Memiliki ukuran yang relatif kecil, Zipkin mendapatkan skor 4.
-
-
 ## Conclusion
 
 Zipkin meraih skor total yang tinggi dalam evaluasi kriteria yang penting untuk performance monitoring sistem. Hal ini menunjukkan bahwa Zipkin adalah solusi monitoring yang kuat, andal, dan efisien, sangat cocok untuk arsitektur mikroservis. Dengan komunitas yang aktif, dokumentasi yang jelas, dan pemeliharaan yang teratur, Zipkin menjanjikan peningkatan visibilitas performa aplikasi dan efisiensi dalam pemecahan masalah. Kesimpulannya, Zipkin adalah pilihan yang direkomendasikan.

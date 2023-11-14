@@ -94,3 +94,6 @@ Dikarenakan skoring npm lebih tinggi dan memiliki banyak fitur, jadi kami memili
 
 Untuk Node JS version, kami memilih versi 20.9.0 LTS sebagai acuan untuk digunakan pada proyek-proyek kedepannya.
 
+## [Unit Test](/javascript-or-typescript/library/unit_test.md)
+
+Berdasarkan skor tinggi yang diperoleh oleh Jest dan beragam fitur yang ditawarkannya, kami menyimpulkan bahwa Jest adalah pilihan utama untuk pengembangan proyek backend menggunakan NestJS. Kombinasi antara keandalan, kompatibilitas, dan komunitas yang kuat membuat Jest menjadi alat yang sangat efektif untuk unit testing dalam lingkungan Node.js, khususnya dengan NestJS.

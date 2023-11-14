@@ -29,15 +29,6 @@ Jadi, hubungan antara Mongoose dan database berbasis dokumen adalah bahwa Mongoo
 | Size         | 4   |
 | **Total Skor** | **32**   |
 
-- **Maintenance**: Mongoose mendapatkan skor 4 karena pemeliharaannya yang rutin dan teratur. Versi terbaru, Mongoose 8.0.0, dirilis pada 31 Oktober 2023.
-- **Reputable**: Sebagai library yang banyak digunakan oleh pengembang di seluruh dunia, Mongoose mendapatkan skor 4.
-- **Compatibility**: Mongoose mendukung Node.js dan Deno (alpha), sehingga mendapatkan skor 4.
-- **Community**: Dengan komunitas pengguna yang besar dan aktif, Mongoose mendapatkan skor 4.
-- **Documentation**: Memiliki dokumentasi yang lengkap dan terstruktur dengan baik, Mongoose mendapatkan skor 4.
-- **Licensing**: Mongoose adalah open source jadi mendapatkan skor 4
-- **Extensible**: Mongoose mudah untuk diperluas, sehingga mendapatkan skor 4.
-- **Size**: Size library Mongoose cukup kecil, sehingga mendapatkan skor 4.
-
 ## Conclusion
 
 Dengan pertimbangan total skor yang tinggi, khususnya dalam hal pemeliharaan, reputasi, dan komunitas, Mongoose terpilih sebagai pilihan utama untuk mengembangkan proyek backend menggunakan Node.js. Keandalan dan dukungan luas yang diberikan oleh Mongoose membuatnya menjadi solusi ODM yang sangat cocok untuk aplikasi yang memanfaatkan MongoDB sebagai database berbasis dokumen.

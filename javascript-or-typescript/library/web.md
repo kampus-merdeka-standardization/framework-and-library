@@ -21,8 +21,6 @@ Referensi:
 ## Scoring sheet
 Dikarenakan nestjs/platform-express sama saja dengan Express.js tetapi hanya digunakan pada framework Nestjs, sehingga skoring hanya dilakukan pada @nestjs/platform-express
 
-Berikut adalah skoring untuk `@nestjs/platform-express` berdasarkan kriteria yang Anda berikan:
-
 
 | Kriteria          | @nestjs/platform-express   |
 |-------------------|----------|
@@ -35,17 +33,6 @@ Berikut adalah skoring untuk `@nestjs/platform-express` berdasarkan kriteria yan
 | Extensible        | 4        |
 | Size              | 4        |
 | **Total Score**       | **32**       | 
-
-**Penjelasan:**
-1. **Maintenance**: `@nestjs/platform-express` secara rutin mendapatkan pembaruan dan pemeliharaan dari tim pengembang.
-2. **Reputable**: `@nestjs/platform-express` dikembangkan oleh tim NestJS yang dikenal secara global.
-3. **Compatibility**: `@nestjs/platform-express` sangat kompatibel dengan arsitektur Node.js dan dapat digunakan dengan berbagai library lainnya.
-4. **Community**: `@nestjs/platform-express` memiliki komunitas pengguna yang besar baik di tingkat lokal maupun global.
-5. **Documentation**: `@nestjs/platform-express` memiliki dokumentasi yang lengkap dan terstruktur dengan baik di web.
-6. **Licensing**: `@nestjs/platform-express` adalah perangkat lunak open source.
-7. **Extensible**: `@nestjs/platform-express` mudah diperluas dan disesuaikan sesuai kebutuhan pengguna.
-8. **Size**: Ukuran `@nestjs/platform-express` sangat kecil (<10mb), yang membuatnya ideal untuk penggunaan di cloud.
-
 
 ## Conclusion
 

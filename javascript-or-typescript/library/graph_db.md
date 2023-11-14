@@ -24,15 +24,6 @@ neo4j-driver adalah driver resmi yang dibuat oleh tim Neo4j untuk memungkinkan i
 | Size         | 4            |
 | **Total Skor** | **31**       |
 
-- **Maintenance**: neo4j-driver mendapatkan skor 3 karena update terakhir 10 hari yang lalu pada saat dokumen ini dibuat.
-- **Reputable**: Sebagai driver resmi Neo4j untuk JavaScript, neo4j-driver mendapatkan skor 4.
-- **Compatibility**: neo4j-driver mendukung protokol Bolt, yang merupakan protokol jaringan biner yang dioptimalkan untuk bekerja dengan database graf, sehingga mendapatkan skor 4.
-- **Community**: Dengan komunitas pengguna yang besar dan aktif, neo4j-driver mendapatkan skor 4.
-- **Documentation**: Memiliki dokumentasi yang lengkap dan terstruktur dengan baik, neo4j-driver mendapatkan skor 4.
-- **Licensing**: Sebagai perangkat lunak open source, neo4j-driver mendapatkan skor 4.
-- **Extensible**: neo4j-driver mudah diperluas dan mendukung berbagai fitur, sehingga mendapatkan skor 4.
-- **Size**: Ukuran library neo4j-driver relatif kecil, sehingga mendapatkan skor 4.
-
 ## Conclusion
 
 neo4j-driver adalah pilihan yang sangat baik untuk mengembangkan backend NestJS dengan fokus pada data yang sangat terhubung, menjadikannya pilihan utama kami untuk proyek yang memerlukan database graf.

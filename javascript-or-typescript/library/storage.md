@@ -23,15 +23,6 @@ MinIO dirancang untuk bekerja dengan beban kerja data lake dan database skala be
 | Size          | 3     |
 | **Total Score** | **31** |
 
-- **Maintenance**: MinIO mendapat skor 4 karena dipelihara secara aktif.
-- **Reputable**: MinIO adalah solusi penyimpanan objek yang terkenal, sehingga mendapat skor 4.
-- **Compatibility**: MinIO kompatibel dengan Amazon S3 dan mendukung semua fitur inti S3. MinIO juga mendukung berbagai arsitektur perangkat keras. Oleh karena itu, ia mendapat skor 4.
-- **Community**: MinIO memiliki komunitas pengguna dan kontributor yang besar, sehingga mendapat skor 4.
-- **Documentation**: MinIO memiliki dokumentasi yang komprehensif, sehingga mendapat skor 4.
-- **Licensing**: MinIO memiliki lisensi ganda di bawah sumber terbuka GNU AGPL v3 dan lisensi perusahaan komersial, sehingga mendapat skor 4.
-- **Extensible**: MinIO dirancang untuk dapat diperluas, sehingga mendapat skor 4.
-- **Size**: Ukuran MinIO adalah 12MB, mendapatkan skor 3
-
 ## Conclusion
 
 Dengan total skor yang sangat tinggi, MinIO terbukti sebagai solusi penyimpanan objek yang ideal untuk proyek backend yang menggunakan NestJS. Kinerja, kompatibilitas tinggi dengan Amazon S3, dokumentasi yang komprehensif, dan dukungan komunitas yang kuat menjadikannya pilihan yang tepat bagi pengembang yang membutuhkan penyimpanan objek berkinerja tinggi dan dapat diandalkan.
