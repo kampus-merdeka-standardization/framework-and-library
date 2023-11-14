@@ -74,13 +74,23 @@ Mengingat skor yang sempurna dan berbagai fitur yang ditawarkan oleh @nestjs/cli
 
 ### XML Processing
 
+Dikarenakan NestJS memiliki XML parser bawaaan, jadi pilihan utama tetap menggunakan XML yang berada pada native NestJS.
+
 ### JSON Processing
 
 Karena Native Json Parser sudah baik dan teruji, jadi kami memilih Native Json Parser sebagai Library Json Parser/Builder.
 
 ### Packaging Tools
 
+Dikarenakan skoring npm lebih tinggi dan memiliki banyak fitur, jadi kami memilih npm sebagai Packaging Tools utama.
+
 ### SDK
+
+Untuk Node JS version, kami memilih versi 20.9.0 LTS sebagai acuan untuk digunakan pada proyek-proyek kedepannya.
+
+### Unit Test
+
+Berdasarkan skor tinggi yang diperoleh oleh Jest dan beragam fitur yang ditawarkannya, kami menyimpulkan bahwa Jest adalah pilihan utama untuk pengembangan proyek backend menggunakan NestJS. Kombinasi antara keandalan, kompatibilitas, dan komunitas yang kuat membuat **Jest** menjadi alat yang sangat efektif untuk unit testing dalam lingkungan Node.js, khususnya dengan NestJS.
 
 ## Framework
 
