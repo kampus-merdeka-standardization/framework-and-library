@@ -1,7 +1,8 @@
 # Rest client : Fetch vs Axios
 
 ## Definition
-Dalam era pengembangan aplikasi web modern, metode pengambilan data dari server atau API menjadi salah satu komponen kritis dalam arsitektur aplikasi. Get data dari sumber eksternal melalui HTTP adalah salah satu kegiatan yang sering dilakukan oleh aplikasi berbasis web, dan dalam JavaScript, Axios dan Fetch adalah dua pendekatan yang populer dalam menangani tugas tersebut. 
+
+Dalam era pengembangan aplikasi web modern, metode pengambilan data dari server atau API menjadi salah satu komponen kritis dalam arsitektur aplikasi. Get data dari sumber eksternal melalui HTTP adalah salah satu kegiatan yang sering dilakukan oleh aplikasi berbasis web, dan dalam JavaScript, Axios dan Fetch adalah dua pendekatan yang populer dalam menangani tugas tersebut.
 
 ## Axios
 

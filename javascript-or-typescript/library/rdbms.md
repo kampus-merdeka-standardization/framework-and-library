@@ -2,7 +2,7 @@
 
 ## Definition
 
-Dalam pengembangan aplikasi berbasis Node.js, memilih sebuah ORM yang tepat adalah salah satu keputusan penting yang akan mempengaruhi bagaimana kita berinteraksi dengan basis data dan menentukan struktur dari kode basis data kita. Sequelize, TypeORM, dan Prisma adalah tiga ORM yang populer dalam ekosistem Node.js, masing-masing menawarkan pendekatan yang berbeda dalam menangani interaksi basis data. 
+Dalam pengembangan aplikasi berbasis Node.js, memilih sebuah ORM yang tepat adalah salah satu keputusan penting yang akan mempengaruhi bagaimana kita berinteraksi dengan basis data dan menentukan struktur dari kode basis data kita. Sequelize, TypeORM, dan Prisma adalah tiga ORM yang populer dalam ekosistem Node.js, masing-masing menawarkan pendekatan yang berbeda dalam menangani interaksi basis data.
 
 ## Sequilize
 
@@ -16,9 +16,7 @@ TypeORM adalah ORM yang sangat fleksibel dan modular, menawarkan dukungan luas u
 
 Prisma, di sisi lain, adalah pendatang baru yang menawarkan pendekatan yang berbeda dari ORM tradisional, di mana ia bertindak sebagai layer query builder yang menghasilkan akses data yang aman dan efisien, dengan dukungan kuat untuk TypeScript dan flow-typing.
 
-
 ## Scoring sheet
-
 
 | Kriteria      | Sequelize | TypeORM | Prisma |
 |---------------|-----------|---------|--------|

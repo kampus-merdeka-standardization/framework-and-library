@@ -10,23 +10,9 @@
 
 Multer menambahkan objek body dan file atau files ke objek permintaan. Objek body berisi nilai-nilai dari field teks dari formulir, file atau files berisi file yang diunggah melalui formulir. Anda dapat menggunakan Multer untuk menangani berbagai situasi unggahan file dalam Node.
 
-## Scoring sheet
-
-| Kriteria       | Multer |
-| -------------- | ------ |
-| Maintenance    | 1      |
-| Reputable      | 4      |
-| Compatibility  | 4      |
-| Community      | 4      |
-| Documentation  | 4      |
-| Licensing      | 4      |
-| Extensible     | 4      |
-| Size           | 4      |
-| **Total Skor** | **32** |
-
 ## Conclusion
 
-Berdasarkan skor yang tinggi dalam kriteria penting seperti reputasi, kompatibilitas, dukungan komunitas, dan dokumentasi, Multer menjadi pilihan utama untuk operasi file pada proyek backend yang menggunakan NestJS.
+Dikarenakan Multer satu-satunya sebagai pembanding dan tidak ada komparasi lain, Multer menjadi pilihan utama untuk operasi file pada proyek backend yang menggunakan NestJS.
 
 ## Referensi
 

@@ -10,20 +10,6 @@ Graph Database memprioritaskan hubungan antara data. Query hubungan cepat karena
 
 neo4j-driver adalah driver resmi yang dibuat oleh tim Neo4j untuk memungkinkan interaksi aplikasi dengan database Neo4j, yang merupakan graph database. Driver ini memfasilitasi komunikasi antara aplikasi klien (seperti aplikasi berbasis Node.js atau aplikasi lain yang menggunakan backend JavaScript) dengan instance Neo4j. Dengan menggunakan neo4j-driver, pengembang dapat terhubung ke database, menjalankan kueri Cypher, dan memanipulasi data graf dengan efisien.
 
-## Scoring sheet
-
-| Kriteria       | neo4j-driver |
-| -------------- | ------------ |
-| Maintenance   | 3            |
-| Reputable       | 4            |
-| Compatibility | 4            |
-| Community      | 4            |
-| Documentation    | 4            |
-| Licensing        | 4            |
-| Extensible| 4            |
-| Size         | 4            |
-| **Total Skor** | **31**       |
-
 ## Conclusion
 
 neo4j-driver adalah pilihan yang sangat baik untuk mengembangkan backend NestJS dengan fokus pada data yang sangat terhubung, menjadikannya pilihan utama kami untuk proyek yang memerlukan database graf.

@@ -1,6 +1,6 @@
 # Logging Library : Pino vs Winston
 
-# Definition
+## Definition
 
 Dalam pengembangan aplikasi berbasis Node.js, pencatatan atau logging adalah salah satu aspek penting untuk memastikan bahwa aplikasi berjalan dengan lancar dan masalah dapat dideteksi dan diperbaiki dengan cepat. Pino dan Winston adalah dua pustaka logging yang populer dalam ekosistem Node.js, masing-masing dengan kelebihan dan fitur-fitur uniknya sendiri.
 
@@ -13,6 +13,7 @@ Pino adalah pustaka logging untuk Node.js yang dikenal dengan kinerja tinggi dan
 Winston, di sisi lain, adalah pustaka logging universal yang menawarkan kemampuan logging yang sangat kustomisasi. Dengan fitur transport yang memungkinkan pencatatan log ke berbagai sumber penyimpanan dan format yang kustomisasi, Winston menyediakan solusi logging yang fleksibel dan robust untuk aplikasi-aplikasi skala besar.
 
 ## Scoring sheet
+
 | Kriteria      | Pino    | Winston |
 |---------------|---------|---------|
 | Maintenance   | 4       | 3       |
