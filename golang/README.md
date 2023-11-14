@@ -90,6 +90,6 @@ Berdasarkan [web resmi golang](https://go.dev/dl/), versi yang sudah stable adal
 
 Menggunakan package [testify](https://github.com/stretchr/testify) daripada standard library Golang (testing) memberikan keuntungan tambahan dalam menulis dan menjalankan uji unit. Secara keseluruhan, penggunaan testify meningkatkan kualitas dan keterbacaan kode pengujian dalam proyek Golang, serta menyediakan alat tambahan yang mendukung praktik unit test yang lebih kuat.
 
-## Framework
+## Web Framework
 
-Saat ini framework yang sedang ramai dibicarakan adalan Gin dan Fiber. Jika ingin memprioritaskan kinerja tinggi dan memiliki pengalaman dengan Go, Gin mungkin merupakan pilihan yang lebih baik untuk aplikasi yang kompleks dan *high traffic*. Di sisi lain, jika menginginkan kesederhanaan, *asynchronus handling*, dan minimalis, Fiber bisa menjadi pilihan yang tepat, terutama untuk proyek berukuran kecil hingga menengah. Berdasarkan score yang didapat, Fiber memiliki angka yang lebih besar. Fiber juga sudah digunakan di hampir semua project milik Telkomsel. Jadi untuk framework gunakan [Fiber](https://github.com/gofiber/fiber).
+Saat ini web framework yang sedang ramai dibicarakan adalan Gin dan Fiber. Jika ingin memprioritaskan kinerja tinggi dan memiliki pengalaman dengan Go, Gin mungkin merupakan pilihan yang lebih baik untuk aplikasi yang kompleks dan *high traffic*. Di sisi lain, jika menginginkan kesederhanaan, *asynchronus handling*, dan minimalis, Fiber bisa menjadi pilihan yang tepat, terutama untuk proyek berukuran kecil hingga menengah. Berdasarkan score yang didapat, Fiber memiliki angka yang lebih besar. Fiber juga sudah digunakan di hampir semua project milik Telkomsel. Jadi untuk web framework gunakan [Fiber](https://github.com/gofiber/fiber).

@@ -1,6 +1,6 @@
-# Framework Golang
+# Web Framework Golang
 
-Pada bagian *framework* ini, hanya akan membahas 3 framework yang cukup populer di Golang. Dintaranya adalah [Gin](https://github.com/gin-gonic/gin), [Fiber](https://github.com/gofiber/fiber), dan [Gorilla Mux](https://github.com/gorilla/mux).
+Pada bagian web *framework* ini, hanya akan membahas 3 framework yang cukup populer di Golang. Dintaranya adalah [Gin](https://github.com/gin-gonic/gin), [Fiber](https://github.com/gofiber/fiber), dan [Gorilla Mux](https://github.com/gorilla/mux).
 
 ## Gin
 
@@ -76,7 +76,7 @@ Nama "mux" dalam Gorilla Mux merupakan singkatan dari "HTTP request multiplexer"
 
 ## conclusion
 
-Saat ini framework yang sedang ramai dibicarakan adalan Gin dan Fiber. Jika ingin memprioritaskan kinerja tinggi dan memiliki pengalaman dengan Go, Gin mungkin merupakan pilihan yang lebih baik untuk aplikasi yang kompleks dan *high traffic*. Di sisi lain, jika menginginkan kesederhanaan, *asynchronus handling*, dan minimalis, Fiber bisa menjadi pilihan yang tepat, terutama untuk proyek berukuran kecil hingga menengah. Berdasarkan score yang didapat, Fiber memiliki angka yang lebih besar. Fiber juga sudah digunakan di hampir semua project milik Telkomsel. Jadi untuk framework gunakan Fiber.
+Saat ini framework web yang sedang ramai dibicarakan adalan Gin dan Fiber. Jika ingin memprioritaskan kinerja tinggi dan memiliki pengalaman dengan Go, Gin mungkin merupakan pilihan yang lebih baik untuk aplikasi yang kompleks dan *high traffic*. Di sisi lain, jika menginginkan kesederhanaan, *asynchronus handling*, dan minimalis, Fiber bisa menjadi pilihan yang tepat, terutama untuk proyek berukuran kecil hingga menengah. Berdasarkan score yang didapat, Fiber memiliki angka yang lebih besar. Fiber juga sudah digunakan di hampir semua project milik Telkomsel. Jadi untuk web framework gunakan Fiber.
 
 ## Reference
 
