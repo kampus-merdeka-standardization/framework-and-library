@@ -113,6 +113,8 @@ Berdasarkan hasil skoring, terlihat bahwa java 21 memiliki nilai yang lebih baik
 
 ### Unit Test
 
+Menggunakan Spring Boot Starter Test karena didalamnya sudah terdapat berbagai library _unit testing_ yang dibutuhkan dalam tahap pengembangan, seperti Junit, Spring Test, Spring Boot Test, AssertJ, Hamcrest, Mockito, JSONassert, dan JsonPath.
+
 ## Framework
 
 Memilih Spring Framework, karena Spring merupakan kerangka kerja yang mapan dengan komunitas besar, fleksibilitas untuk berbagai jenis aplikasi. Selain itu, Spring sangat sesuai untuk pengembangan aplikasi Java stand-alone yang umum digunakan.
