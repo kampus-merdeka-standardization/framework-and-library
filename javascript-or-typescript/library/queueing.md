@@ -1,8 +1,6 @@
-# Queue
-
 ## Definition
 
-Dalam konteks pengembangan backend, antrian (queue) adalah struktur data yang digunakan untuk menangani permintaan dalam urutan First In, First Out (FIFO). Ini berarti bahwa permintaan yang masuk pertama kali akan diproses pertama kali.
+Messaging queue adalah sistem perangkat lunak yang digunakan untuk mengirim, menerima, dan mengelola pesan antara komponen atau aplikasi yang beroperasi secara terdistribusi. Ini memungkinkan aplikasi untuk berkomunikasi secara asinkron, memisahkan produsen pesan (pengirim) dari konsumen pesan (penerima), dan dapat digunakan untuk mengatasi lonjakan lalu lintas, menjaga keseimbangan beban, dan memastikan skalabilitas dalam lingkungan sistem yang besar dan kompleks.
 
 ## @nestjs/microservices Queue
 

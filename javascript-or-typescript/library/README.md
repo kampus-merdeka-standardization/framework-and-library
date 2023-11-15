@@ -5,88 +5,79 @@ library adalah kumpulan kode yang disusun dalam modul atau paket yang dapat digu
 
 ## [Web](/javascript-or-typescript/library/web.md)
 
-Sebuah library web dalam konteks pengembangan backend mengacu pada kumpulan kode, kelas, prosedur, skrip, data konfigurasi, dan lainnya, yang dapat digunakan oleh developer untuk mempercepat proses pengembangan.  Ini memberikan solusi siap pakai untuk tugas-tugas pemrograman umum, sehingga memungkinkan pengembang untuk fokus pada aspek unik dari aplikasi mereka, alih-alih memecahkan masalah yang telah diselesaikan.
-
-## [Logging](/javascript-or-typescript/library/logging.md)
-
-Dalam pengembangan aplikasi berbasis Node.js, pencatatan atau logging adalah salah satu aspek penting untuk memastikan bahwa aplikasi berjalan dengan lancar dan masalah dapat dideteksi dan diperbaiki dengan cepat. Pino dan Winston adalah dua pustaka logging yang populer dalam ekosistem Node.js, masing-masing dengan kelebihan dan fitur-fitur uniknya sendiri.
+Library web adalah seperangkat alat, modul, atau fungsi yang digunakan oleh pengembang perangkat lunak untuk membangun dan mengelola aplikasi web. Library web bertujuan untuk menyederhanakan pengembangan aplikasi web dengan menyediakan solusi umum untuk tugas-tugas yang sering diperlukan dalam pembangunan situs web atau aplikasi web, sehingga pengembang dapat fokus pada logika bisnis inti tanpa harus memulai dari nol dalam setiap proyek.
 
 ## [Rest Client](/javascript-or-typescript/library/rest_client.md)
 
-Dalam era pengembangan aplikasi web modern, metode pengambilan data dari server atau API menjadi salah satu komponen kritis dalam arsitektur aplikasi. Get data dari sumber eksternal melalui HTTP adalah salah satu kegiatan yang sering dilakukan oleh aplikasi berbasis web, dan dalam JavaScript, Axios dan Fetch adalah dua pendekatan yang populer dalam menangani tugas tersebut. 
+Library rest client adalah perangkat lunak atau modul yang memungkinkan pengembang untuk berinteraksi dengan layanan RESTful API (Application Programming Interface) menggunakan bahasa pemrograman tertentu dengan mudah. Ini menyediakan fungsi dan abstraksi yang memungkinkan pengiriman permintaan HTTP seperti GET, POST, PUT, dan DELETE ke endpoint API, serta pengolahan respons yang diterima. Library rest client membantu mengotomatiskan sebagian besar tugas yang terkait dengan komunikasi dengan API, termasuk manajemen autentikasi, pengelolaan sesi, pemrosesan format data seperti JSON atau XML, serta penanganan kesalahan.
+
+## [Logging](/javascript-or-typescript/library/logging.md)
+
+Library logging digunakan untuk mencatat peristiwa yang terjadi dalam aplikasi. Ini sangat berguna untuk pemantauan, debugging, dan analisis saat pengembang perlu mengetahui apa yang terjadi dalam aplikasi, termasuk pesan kesalahan, informasi debugging, dan jejak aktivitas.
 
 ## [Configuration](/javascript-or-typescript/library/configuration.md)
 
-Dalam pengembangan perangkat lunak, "konfigurasi" merujuk pada parameter dan opsi yang menentukan bagaimana sebuah aplikasi atau sistem akan beroperasi. Ini bisa mencakup segala sesuatu mulai dari pengaturan koneksi database, environment variables, API keys, kata sandi, dan lain-lain. Konfigurasi ini biasanya dikelola sedemikian rupa sehingga bisa dengan mudah diubah tanpa harus mengubah kode program itu sendiri, memungkinkan aplikasi berjalan di berbagai lingkungan (development, testing, production, dll.) dengan sedikit atau tanpa modifikasi kode.
+Library configuration membantu pengembang mengelola pengaturan aplikasi, seperti variabel lingkungan, koneksi database, atau parameter lainnya. Dengan library ini, pengembang dapat dengan mudah membaca dan mengubah pengaturan tanpa harus mengubah kode sumber aplikasi.
 
-## [Performance Monitoring](/javascript-or-typescript/library/monitoring.md)
+## [Monitoring](/javascript-or-typescript/library/monitoring.md)
 
-Performance monitoring dalam backend adalah proses mengumpulkan dan menganalisis data tentang bagaimana sistem berfungsi. Ini melibatkan pengukuran berbagai metrik seperti latency (waktu yang dibutuhkan untuk memproses permintaan), throughput (jumlah permintaan yang dapat diproses dalam satu waktu), penggunaan CPU, uptime server, dan penggunaan memori.
-
-Latency adalah waktu yang dibutuhkan oleh paket data untuk bepergian dari satu titik ke titik lainnya pada jaringan. Ini adalah metrik kinerja penting yang mengukur responsivitas sistem. Throughput mengukur volume lalu lintas yang dapat ditangani oleh aplikasi web tanpa breakdown. Penggunaan CPU adalah waktu layanan menggunakan CPU. Server uptime adalah waktu yang dihabiskan server dalam keadaan aktif dan berfungsi. Memory adalah jumlah memori yang digunakan oleh aplikasi.
+Library performance monitoring membantu pengembang mengukur kinerja aplikasi mereka dengan mengumpulkan metrik dan statistik. Hal ini memungkinkan pengembang untuk mendeteksi masalah kinerja, mengoptimalkan aplikasi, dan memahami bagaimana aplikasi berperilaku di bawah beban tertentu.
 
 ## [RDBMS](/javascript-or-typescript/library/rdbms.md)
 
-Dalam pengembangan aplikasi berbasis Node.js, memilih sebuah ORM yang tepat adalah salah satu keputusan penting yang akan mempengaruhi bagaimana kita berinteraksi dengan basis data dan menentukan struktur dari kode basis data kita. Sequelize, TypeORM, dan Prisma adalah tiga ORM yang populer dalam ekosistem Node.js, masing-masing menawarkan pendekatan yang berbeda dalam menangani interaksi basis data. 
+Relational Database Management System (RDBMS) adalah jenis sistem manajemen basis data yang menggunakan model data relasional untuk mengorganisasi dan mengelola informasi. Ini didasarkan pada tabel yang terdiri dari baris dan kolom, di mana data disimpan dan diakses dengan menggunakan bahasa SQL (Structured Query Language).
 
-## [Document Based Database](/javascript-or-typescript/library/document_based_db.md)
+## [Key-value](/javascript-or-typescript/library/in_memory_db.md)
 
-Database berbasis dokumen atau Document-based database adalah jenis database NoSQL yang dirancang untuk menyimpan, mengambil, dan mengelola data berorientasi dokumen. Dokumen ini biasanya disimpan dalam format yang mirip dengan JSON (JavaScript Object Notation).
+in-memory database (IMDB), adalah sistem manajemen basis data yang menyimpan dan memproses data langsung dalam memori komputer, tanpa perlu akses ke penyimpanan fisik seperti disk. Hal ini memungkinkan kueri dan transaksi untuk dieksekusi dengan sangat cepat karena data dapat diakses secara instan dari RAM.
 
-Database berbasis dokumen lebih efisien dan fleksibel dibandingkan dengan database relasional tradisional. Mereka memungkinkan Anda untuk menyimpan data dalam struktur yang lebih dekat dengan data dalam kode Anda, yang berarti Anda tidak perlu melakukan banyak pemetaan kompleks atau join ketika Anda mengambil atau memperbarui data.
+## [Document Base](/javascript-or-typescript/library/document_based_db.md)
 
-## [In Memory Database](/javascript-or-typescript/library/in_memory_db.md)
-
-In-Memory Database (IMDB), adalah sistem manajemen database yang sebagian besar mengandalkan memori utama untuk penyimpanan data komputer. Ini berlawanan dengan sistem manajemen database yang menggunakan mekanisme penyimpanan disk.
-
-Database In-Memory lebih cepat daripada database yang dioptimalkan untuk disk karena akses disk lebih lambat daripada akses memori dan algoritma optimasi internal lebih sederhana dan menjalankan instruksi CPU lebih sedikit. Mengakses data dalam memori menghilangkan waktu pencarian saat melakukan query data, yang memberikan kinerja yang lebih cepat dan lebih dapat diprediksi.
+Database berbasis dokumen adalah jenis sistem manajemen basis data yang dirancang untuk menyimpan dan mengelola data dalam format dokumen semi-terstruktur, seperti JSON atau BSON. Setiap dokumen dalam database ini dapat memiliki struktur yang berbeda, yang membuatnya fleksibel untuk menyimpan data yang bervariasi tanpa persyaratan skema yang ketat.
 
 ## [Graph Database](/javascript-or-typescript/library/graph_db.md)
 
-Graph Database (GDB) adalah database yang menggunakan struktur graf untuk melakukan query semantik dengan node, edge, dan properti untuk merepresentasikan dan menyimpan data. Konsep kunci dari sistem ini adalah graf (atau edge atau relationship). Graf tersebut menghubungkan item data dalam toko ke kumpulan node dan edge, edge tersebut mewakili hubungan antara node. Hubungan memungkinkan data dalam toko untuk dihubungkan secara langsung dan, dalam banyak kasus, diambil dengan satu operasi.
-
-Graph Database memprioritaskan hubungan antara data. Query hubungan cepat karena mereka selalu disimpan dalam database. Hubungan dapat divisualisasikan secara intuitif menggunakan database graf, membuatnya berguna untuk data yang sangat saling terhubung.
+Graph database adalah sistem manajemen basis data yang dirancang khusus untuk menyimpan dan mengelola data yang memiliki struktur berbentuk grafik atau jaringan, dengan elemen-elemen seperti node dan edge yang mewakili entitas dan hubungan di antara mereka.
 
 ## [Storage](/javascript-or-typescript/library/storage.md)
 
-Storage merujuk ke tempat di mana data disimpan dan dikelola. Ini melibatkan segala sesuatu yang ada di server, termasuk pemodelan data dan penyimpanan hingga masalah keamanan.
+Network storage adalah layanan penyimpanan awan yang memungkinkan pengguna untuk menyimpan dan mengelola data secara terdistribusi melalui internet. Data disimpan di dalam "bucket" yang dapat diakses dari mana saja melalui API web. Layanan ini menyediakan skala tak terbatas, durabilitas tinggi, dan ketersediaan data yang kuat, serta memungkinkan penyimpanan berbagai jenis data, termasuk gambar, video, file teks, dan data aplikasi.
 
 ## [File Opretation](/javascript-or-typescript/library/file_operation.md)
 
-**File Operation** merujuk ke operasi yang dilakukan pada file dalam sistem komputer. Ini bisa mencakup berbagai tugas seperti membaca file, menulis ke file, menghapus file, merename file, dan sebagainya.
+library file operation mengacu pada kemampuan untuk mengelola operasi I/O (Input/Output) pada file atau data yang terletak di jaringan, seperti mengambil atau mengirim data melalui protokol jaringan seperti HTTP atau FTP.
 
 ## [Concurrency](/javascript-or-typescript/library/concurrency.md)
 
-Concurrency dalam pengembangan backend merujuk pada kemampuan sistem untuk menangani beberapa permintaan atau proses secara bersamaan. Ini penting karena aplikasi web modern dibangun untuk menangani volume lalu lintas yang tinggi, dan pengguna mengharapkan aplikasi untuk cepat dan responsif.
+Concurrency adalah konsep dalam pemrograman yang mengacu pada kemampuan sebuah program untuk menjalankan beberapa tugas atau potongan kode secara bersamaan, tanpa harus menunggu tugas sebelumnya selesai. Ini dapat diterapkan untuk meningkatkan efisiensi dan kinerja dalam aplikasi, terutama pada sistem dengan banyak prosesor atau pada tugas yang melibatkan I/O.
 
 ## [Routing](/javascript-or-typescript/library/routing.md)
 
-Routing dalam pengembangan web adalah mekanisme di mana permintaan HTTP diarahkan ke kode yang menanganinya. Dengan kata lain, dalam Router Anda menentukan apa yang harus terjadi ketika pengguna mengunjungi halaman tertentu.
+Library routing adalah kumpulan alat atau modul yang dirancang khusus untuk mengelola routing dan penanganan permintaan dalam aplikasi web atau jaringan. Library routing membantu pengembang mengatur bagaimana permintaan dari pengguna atau klien akan dipetakan ke fungsi-fungsi pengendali yang sesuai berdasarkan pola-pola rute yang telah ditentukan. Dengan memanfaatkan library routing, pengembang dapat dengan efisien menangani permintaan HTTP, mengelola parameter URL, dan menerapkan logika bisnis dalam aplikasi web.
 
 ## [Queue](/javascript-or-typescript/library/queueing.md)
 
-Dalam konteks pengembangan backend, antrian (queue) adalah struktur data yang digunakan untuk menangani permintaan dalam urutan First In, First Out (FIFO). Ini berarti bahwa permintaan yang masuk pertama kali akan diproses pertama kali.
+Messaging queue adalah sistem perangkat lunak yang digunakan untuk mengirim, menerima, dan mengelola pesan antara komponen atau aplikasi yang beroperasi secara terdistribusi. Ini memungkinkan aplikasi untuk berkomunikasi secara asinkron, memisahkan produsen pesan (pengirim) dari konsumen pesan (penerima), dan dapat digunakan untuk mengatasi lonjakan lalu lintas, menjaga keseimbangan beban, dan memastikan skalabilitas dalam lingkungan sistem yang besar dan kompleks.
 
 ## [Pub / Sub](/javascript-or-typescript/library/pubsub.md)
 
-Pub/Sub, atau Publish/Subscribe, adalah pola desain arsitektur yang digunakan dalam sistem terdistribusi untuk komunikasi asinkron antara berbagai komponen atau layanan. Dalam model Pub/Sub, memiliki dua jenis aktor utama:
-
-1. **Publisher**: Ini adalah sumber pesan. Mereka membuat dan mengirim pesan ke sistem.
-2. **Subscriber**: Ini adalah penerima pesan. Mereka menerima dan memproses pesan dari sistem.
+Messaging pubsub (publish-subscribe) adalah model komunikasi yang digunakan dalam sistem terdistribusi di mana komponen-komponen aplikasi dapat mengirim (publish) pesan ke topik atau kanal tertentu, dan komponen-komponen lain yang berlangganan (subscribe) ke topik atau kanal yang sama akan menerima pesan tersebut secara asinkron.
 
 ## [Scheduler](/javascript-or-typescript/library/scheduler.md)
 
-Scheduler dalam pengembangan backend merujuk ke mekanisme yang memungkinkan Anda untuk menjadwalkan kode (metode/fungsi) untuk dieksekusi pada waktu tertentu, pada interval yang berulang, atau sekali setelah interval tertentu. Dalam dunia Linux, hal ini sering ditangani oleh paket seperti cron pada tingkat OS. Untuk aplikasi Node.js, ada beberapa paket yang meniru fungsionalitas seperti cron.
+Library scheduler digunakan untuk menjadwalkan tugas atau pekerjaan dalam aplikasi. Dengan menggunakan library ini, pengembang dapat mengatur eksekusi tugas pada waktu yang ditentukan atau dengan interval tertentu. Hal ini berguna untuk otomatisasi tugas-tugas terjadwal seperti pemrosesan latar belakang atau pengiriman email berkala.
 
-## [CLI](/javascript-or-typescript/library/cli.md)
+## [CLI operation](/javascript-or-typescript/library/cli.md)
 
-CLI Operation merujuk kepada penggunaan Command Line Interface (CLI) untuk melakukan operasi atau tugas-tugas pengembangan. CLI adalah antarmuka berbasis teks yang memungkinkan pengguna untuk memasukkan perintah secara langsung ke sistem operasi atau aplikasi dengan menggunakan baris perintah atau terminal.
+Library CLI memungkinkan pengembang untuk membuat antarmuka baris perintah yang dapat digunakan untuk berinteraksi dengan aplikasi dari terminal. Ini berguna untuk aplikasi yang memerlukan kontrol melalui perintah-perintah baris perintah.
 
-## [XML Processing](/javascript-or-typescript/library/xml_processing.md)
+## [XML parser/builder](/javascript-or-typescript/library/xml_proccesing.md)
 
-**XML Parser** adalah alat yang digunakan untuk membaca data dari dokumen XML dan mengubahnya menjadi format yang dapat digunakan oleh program lain.
+Pemrosesan XML (eXtensible Markup Language) adalah proses mengambil, memanipulasi, atau menganalisis data yang disimpan dalam format XML, yang digunakan untuk merepresentasikan struktur data hierarkis dengan elemen-elemen yang memiliki tag dan nilai terkait. Ini melibatkan parsing XML untuk mengurai dokumen XML ke dalam struktur data yang dapat diakses dan dimanipulasi oleh aplikasi.
 
-**XML Builder** adalah alat yang digunakan untuk membuat dokumen XML dari data yang disediakan oleh program.
+## [JSON parser/builder](/javascript-or-typescript/library/json_proccesing.md)
+
+Pemrosesan JSON (JavaScript Object Notation) adalah proses yang melibatkan pengambilan, penguraian, dan manipulasi data yang disimpan dalam format JSON, yang merupakan format data ringan dan mudah dibaca oleh manusia dan mesin. Pemrosesan JSON melibatkan parsing JSON untuk mengonversi data JSON menjadi struktur data yang dapat diakses dan dimanipulasi oleh aplikasi, serta menghasilkan data JSON dari struktur data aplikasi.
 
 ## [Packaging Tools](/javascript-or-typescript/library/packaging_tools.md)
 

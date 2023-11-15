@@ -1,8 +1,6 @@
-# CLI
-
 ## Definition
 
-CLI Operation merujuk kepada penggunaan Command Line Interface (CLI) untuk melakukan operasi atau tugas-tugas pengembangan. CLI adalah antarmuka berbasis teks yang memungkinkan pengguna untuk memasukkan perintah secara langsung ke sistem operasi atau aplikasi dengan menggunakan baris perintah atau terminal.
+Library CLI memungkinkan pengembang untuk membuat antarmuka baris perintah yang dapat digunakan untuk berinteraksi dengan aplikasi dari terminal. Ini berguna untuk aplikasi yang memerlukan kontrol melalui perintah-perintah baris perintah.
 
 ## @nestjs/cli
 

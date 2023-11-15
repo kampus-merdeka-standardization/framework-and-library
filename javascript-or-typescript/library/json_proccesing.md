@@ -1,8 +1,6 @@
-# Json Parser/Builder
-
 ## Definition
 
-JSON parser/builder adalah alat atau perpustakaan yang digunakan untuk mengubah JSON string menjadi struktur data yang dapat digunakan dalam pemrograman (parsing) dan sebaliknya, mengubah struktur data menjadi string JSON (building). Ini adalah komponen penting dalam pengembangan aplikasi karena JSON (JavaScript Object Notation) adalah format pertukaran data yang sangat populer, terutama di web, karena kemudahan penggunaannya dengan JavaScript dan banyak bahasa pemrograman lainnya.
+Pemrosesan JSON (JavaScript Object Notation) adalah proses yang melibatkan pengambilan, penguraian, dan manipulasi data yang disimpan dalam format JSON, yang merupakan format data ringan dan mudah dibaca oleh manusia dan mesin. Pemrosesan JSON melibatkan parsing JSON untuk mengonversi data JSON menjadi struktur data yang dapat diakses dan dimanipulasi oleh aplikasi, serta menghasilkan data JSON dari struktur data aplikasi.
 
 ## Native Parser
 

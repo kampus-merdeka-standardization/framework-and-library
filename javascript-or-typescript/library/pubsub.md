@@ -1,11 +1,6 @@
-# Pub / Sub
-
 ## Definition
 
-Pub/Sub, atau Publish/Subscribe, adalah pola desain arsitektur yang digunakan dalam sistem terdistribusi untuk komunikasi asinkron antara berbagai komponen atau layanan. Dalam model Pub/Sub, memiliki dua jenis aktor utama:
-
-1. **Publisher**: Ini adalah sumber pesan. Mereka membuat dan mengirim pesan ke sistem.
-2. **Subscriber**: Ini adalah penerima pesan. Mereka menerima dan memproses pesan dari sistem.
+Messaging pubsub (publish-subscribe) adalah model komunikasi yang digunakan dalam sistem terdistribusi di mana komponen-komponen aplikasi dapat mengirim (publish) pesan ke topik atau kanal tertentu, dan komponen-komponen lain yang berlangganan (subscribe) ke topik atau kanal yang sama akan menerima pesan tersebut secara asinkron.
 
 ## @nestjs/microservices Pub/Sub
 

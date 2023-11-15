@@ -1,10 +1,6 @@
-# Graph Database
-
 ## Definition
 
-Graph Database (GDB) adalah database yang menggunakan struktur graf untuk melakukan query semantik dengan node, edge, dan properti untuk merepresentasikan dan menyimpan data. Konsep kunci dari sistem ini adalah graf (atau edge atau relationship). Graf tersebut menghubungkan item data dalam toko ke kumpulan node dan edge, edge tersebut mewakili hubungan antara node. Hubungan memungkinkan data dalam toko untuk dihubungkan secara langsung dan, dalam banyak kasus, diambil dengan satu operasi.
-
-Graph Database memprioritaskan hubungan antara data. Query hubungan cepat karena mereka selalu disimpan dalam database. Hubungan dapat divisualisasikan secara intuitif menggunakan database graf, membuatnya berguna untuk data yang sangat saling terhubung.
+Graph database adalah sistem manajemen basis data yang dirancang khusus untuk menyimpan dan mengelola data yang memiliki struktur berbentuk grafik atau jaringan, dengan elemen-elemen seperti node dan edge yang mewakili entitas dan hubungan di antara mereka.
 
 ## neo4j-driver
 

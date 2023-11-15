@@ -1,10 +1,6 @@
-# XML Parse / Builder
-
 ## Definition
 
-**XML Parser** adalah alat yang digunakan untuk membaca data dari dokumen XML dan mengubahnya menjadi format yang dapat digunakan oleh program lain.
-
-**XML Builder** adalah alat yang digunakan untuk membuat dokumen XML dari data yang disediakan oleh program.
+Pemrosesan XML (eXtensible Markup Language) adalah proses mengambil, memanipulasi, atau menganalisis data yang disimpan dalam format XML, yang digunakan untuk merepresentasikan struktur data hierarkis dengan elemen-elemen yang memiliki tag dan nilai terkait. Ini melibatkan parsing XML untuk mengurai dokumen XML ke dalam struktur data yang dapat diakses dan dimanipulasi oleh aplikasi.
 
 ## UseBodyParser
 

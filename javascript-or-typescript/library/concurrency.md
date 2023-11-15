@@ -1,8 +1,6 @@
-# Concurrency
-
 ## Definition
 
-Concurrency dalam pengembangan backend merujuk pada kemampuan sistem untuk menangani beberapa permintaan atau proses secara bersamaan. Ini penting karena aplikasi web modern dibangun untuk menangani volume lalu lintas yang tinggi, dan pengguna mengharapkan aplikasi untuk cepat dan responsif.
+Concurrency adalah konsep dalam pemrograman yang mengacu pada kemampuan sebuah program untuk menjalankan beberapa tugas atau potongan kode secara bersamaan, tanpa harus menunggu tugas sebelumnya selesai. Ini dapat diterapkan untuk meningkatkan efisiensi dan kinerja dalam aplikasi, terutama pada sistem dengan banyak prosesor atau pada tugas yang melibatkan I/O.
 
 ## Node.js Native Concurrency
 

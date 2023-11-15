@@ -1,8 +1,6 @@
-# Routing
-
 ## Definition
 
-Routing dalam pengembangan web adalah mekanisme di mana permintaan HTTP diarahkan ke kode yang menanganinya. Dengan kata lain, dalam Router Anda menentukan apa yang harus terjadi ketika pengguna mengunjungi halaman tertentu.
+Library routing adalah kumpulan alat atau modul yang dirancang khusus untuk mengelola routing dan penanganan permintaan dalam aplikasi web atau jaringan. Library routing membantu pengembang mengatur bagaimana permintaan dari pengguna atau klien akan dipetakan ke fungsi-fungsi pengendali yang sesuai berdasarkan pola-pola rute yang telah ditentukan. Dengan memanfaatkan library routing, pengembang dapat dengan efisien menangani permintaan HTTP, mengelola parameter URL, dan menerapkan logika bisnis dalam aplikasi web.
 
 ## @nestjs/common Routing
 

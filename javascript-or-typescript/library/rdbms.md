@@ -1,8 +1,6 @@
-# RDBMS
-
 ## Definition
 
-Dalam pengembangan aplikasi berbasis Node.js, memilih sebuah ORM yang tepat adalah salah satu keputusan penting yang akan mempengaruhi bagaimana kita berinteraksi dengan basis data dan menentukan struktur dari kode basis data kita. Sequelize, TypeORM, dan Prisma adalah tiga ORM yang populer dalam ekosistem Node.js, masing-masing menawarkan pendekatan yang berbeda dalam menangani interaksi basis data.
+Relational Database Management System (RDBMS) adalah jenis sistem manajemen basis data yang menggunakan model data relasional untuk mengorganisasi dan mengelola informasi. Ini didasarkan pada tabel yang terdiri dari baris dan kolom, di mana data disimpan dan diakses dengan menggunakan bahasa SQL (Structured Query Language).
 
 ## Sequilize
 

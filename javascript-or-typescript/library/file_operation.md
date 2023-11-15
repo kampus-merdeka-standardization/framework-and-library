@@ -1,8 +1,6 @@
-# File Operation
-
 ## Definition
 
-**File Operation** merujuk ke operasi yang dilakukan pada file dalam sistem komputer. Ini bisa mencakup berbagai tugas seperti membaca file, menulis ke file, menghapus file, merename file, dan sebagainya.
+library file operation mengacu pada kemampuan untuk mengelola operasi I/O (Input/Output) pada file atau data yang terletak di jaringan, seperti mengambil atau mengirim data melalui protokol jaringan seperti HTTP atau FTP.
 
 ## Multer
 

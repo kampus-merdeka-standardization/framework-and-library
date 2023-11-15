@@ -1,10 +1,6 @@
-# Performance Monitoring
-
 ## Definition
 
-Performance monitoring dalam backend adalah proses mengumpulkan dan menganalisis data tentang bagaimana sistem berfungsi. Ini melibatkan pengukuran berbagai metrik seperti latency (waktu yang dibutuhkan untuk memproses permintaan), throughput (jumlah permintaan yang dapat diproses dalam satu waktu), penggunaan CPU, uptime server, dan penggunaan memori.
-
-Latency adalah waktu yang dibutuhkan oleh paket data untuk bepergian dari satu titik ke titik lainnya pada jaringan. Ini adalah metrik kinerja penting yang mengukur responsivitas sistem. Throughput mengukur volume lalu lintas yang dapat ditangani oleh aplikasi web tanpa breakdown. Penggunaan CPU adalah waktu layanan menggunakan CPU. Server uptime adalah waktu yang dihabiskan server dalam keadaan aktif dan berfungsi. Memory adalah jumlah memori yang digunakan oleh aplikasi.
+Library performance monitoring membantu pengembang mengukur kinerja aplikasi mereka dengan mengumpulkan metrik dan statistik. Hal ini memungkinkan pengembang untuk mendeteksi masalah kinerja, mengoptimalkan aplikasi, dan memahami bagaimana aplikasi berperilaku di bawah beban tertentu.
 
 ## Zipkin
 

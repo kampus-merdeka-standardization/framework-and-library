@@ -1,8 +1,6 @@
-# Scheduler
-
 ## Definition
 
-Scheduler dalam pengembangan backend merujuk ke mekanisme yang memungkinkan Anda untuk menjadwalkan kode (metode/fungsi) untuk dieksekusi pada waktu tertentu, pada interval yang berulang, atau sekali setelah interval tertentu. Dalam dunia Linux, hal ini sering ditangani oleh paket seperti cron pada tingkat OS. Untuk aplikasi Node.js, ada beberapa paket yang meniru fungsionalitas seperti cron.
+Library scheduler digunakan untuk menjadwalkan tugas atau pekerjaan dalam aplikasi. Dengan menggunakan library ini, pengembang dapat mengatur eksekusi tugas pada waktu yang ditentukan atau dengan interval tertentu. Hal ini berguna untuk otomatisasi tugas-tugas terjadwal seperti pemrosesan latar belakang atau pengiriman email berkala.
 
 ## @nestjs/schedule
 

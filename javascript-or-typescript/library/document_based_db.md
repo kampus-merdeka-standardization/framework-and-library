@@ -1,10 +1,6 @@
-# Document Based Database
-
 ## Definition
 
-Database berbasis dokumen atau Document-based database adalah jenis database NoSQL yang dirancang untuk menyimpan, mengambil, dan mengelola data berorientasi dokumen. Dokumen ini biasanya disimpan dalam format yang mirip dengan JSON (JavaScript Object Notation).
-
-Database berbasis dokumen lebih efisien dan fleksibel dibandingkan dengan database relasional tradisional. Mereka memungkinkan Anda untuk menyimpan data dalam struktur yang lebih dekat dengan data dalam kode Anda, yang berarti Anda tidak perlu melakukan banyak pemetaan kompleks atau join ketika Anda mengambil atau memperbarui data.
+Database berbasis dokumen adalah jenis sistem manajemen basis data yang dirancang untuk menyimpan dan mengelola data dalam format dokumen semi-terstruktur, seperti JSON atau BSON. Setiap dokumen dalam database ini dapat memiliki struktur yang berbeda, yang membuatnya fleksibel untuk menyimpan data yang bervariasi tanpa persyaratan skema yang ketat.
 
 ## Mongoose
 

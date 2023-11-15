@@ -1,10 +1,6 @@
-# In Memory Database
-
 ## Definition
 
-In-Memory Database (IMDB), adalah sistem manajemen database yang sebagian besar mengandalkan memori utama untuk penyimpanan data komputer. Ini berlawanan dengan sistem manajemen database yang menggunakan mekanisme penyimpanan disk.
-
-Database In-Memory lebih cepat daripada database yang dioptimalkan untuk disk karena akses disk lebih lambat daripada akses memori dan algoritma optimasi internal lebih sederhana dan menjalankan instruksi CPU lebih sedikit. Mengakses data dalam memori menghilangkan waktu pencarian saat melakukan query data, yang memberikan kinerja yang lebih cepat dan lebih dapat diprediksi.
+in-memory database (IMDB), adalah sistem manajemen basis data yang menyimpan dan memproses data langsung dalam memori komputer, tanpa perlu akses ke penyimpanan fisik seperti disk. Hal ini memungkinkan kueri dan transaksi untuk dieksekusi dengan sangat cepat karena data dapat diakses secara instan dari RAM.
 
 ## ioredis
 

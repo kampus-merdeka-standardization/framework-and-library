@@ -1,7 +1,6 @@
-# Configuration
-
 ## Definition
-Dalam pengembangan perangkat lunak, "konfigurasi" merujuk pada parameter dan opsi yang menentukan bagaimana sebuah aplikasi atau sistem akan beroperasi. Ini bisa mencakup segala sesuatu mulai dari pengaturan koneksi database, environment variables, API keys, kata sandi, dan lain-lain. Konfigurasi ini biasanya dikelola sedemikian rupa sehingga bisa dengan mudah diubah tanpa harus mengubah kode program itu sendiri, memungkinkan aplikasi berjalan di berbagai lingkungan (development, testing, production, dll.) dengan sedikit atau tanpa modifikasi kode.
+
+Library configuration membantu pengembang mengelola pengaturan aplikasi, seperti variabel lingkungan, koneksi database, atau parameter lainnya. Dengan library ini, pengembang dapat dengan mudah membaca dan mengubah pengaturan tanpa harus mengubah kode sumber aplikasi.
 
 ## Dotenv
 

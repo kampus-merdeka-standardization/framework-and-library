@@ -1,8 +1,6 @@
-# Web Library : `@nestjs/platform-express` vs Fastify
-
 ## Definition
 
-Sebuah library web dalam konteks pengembangan backend mengacu pada kumpulan kode, kelas, prosedur, skrip, data konfigurasi, dan lainnya, yang dapat digunakan oleh developer untuk mempercepat proses pengembangan.  Ini memberikan solusi siap pakai untuk tugas-tugas pemrograman umum, sehingga memungkinkan pengembang untuk fokus pada aspek unik dari aplikasi mereka, alih-alih memecahkan masalah yang telah diselesaikan.
+Library web adalah seperangkat alat, modul, atau fungsi yang digunakan oleh pengembang perangkat lunak untuk membangun dan mengelola aplikasi web. Library web bertujuan untuk menyederhanakan pengembangan aplikasi web dengan menyediakan solusi umum untuk tugas-tugas yang sering diperlukan dalam pembangunan situs web atau aplikasi web, sehingga pengembang dapat fokus pada logika bisnis inti tanpa harus memulai dari nol dalam setiap proyek.
 
 ## @nestjs/platform-express
 

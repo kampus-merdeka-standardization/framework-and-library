@@ -1,5 +1,3 @@
-# Packaging Tools
-
 ## Definition
 
 "packaging tools" biasanya merujuk pada alat yang digunakan untuk mengelola dan mengemas dependensi aplikasi serta aplikasi itu sendiri menjadi bentuk yang siap untuk distribusi atau deployment.

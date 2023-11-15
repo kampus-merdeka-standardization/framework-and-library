@@ -1,8 +1,6 @@
-# Rest client : Fetch vs Axios
-
 ## Definition
 
-Dalam era pengembangan aplikasi web modern, metode pengambilan data dari server atau API menjadi salah satu komponen kritis dalam arsitektur aplikasi. Get data dari sumber eksternal melalui HTTP adalah salah satu kegiatan yang sering dilakukan oleh aplikasi berbasis web, dan dalam JavaScript, Axios dan Fetch adalah dua pendekatan yang populer dalam menangani tugas tersebut.
+Library rest client adalah perangkat lunak atau modul yang memungkinkan pengembang untuk berinteraksi dengan layanan RESTful API (Application Programming Interface) menggunakan bahasa pemrograman tertentu dengan mudah. Ini menyediakan fungsi dan abstraksi yang memungkinkan pengiriman permintaan HTTP seperti GET, POST, PUT, dan DELETE ke endpoint API, serta pengolahan respons yang diterima. Library rest client membantu mengotomatiskan sebagian besar tugas yang terkait dengan komunikasi dengan API, termasuk manajemen autentikasi, pengelolaan sesi, pemrosesan format data seperti JSON atau XML, serta penanganan kesalahan.
 
 ## Axios
 

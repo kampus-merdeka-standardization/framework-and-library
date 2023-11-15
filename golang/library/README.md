@@ -36,7 +36,7 @@ Database berbasis dokumen adalah jenis sistem manajemen basis data yang dirancan
 
 ## [Graph](/golang/library/graph_db.md)
 
-Database berbasis dokumen adalah jenis sistem manajemen basis data yang dirancang untuk menyimpan dan mengelola data dalam format dokumen semi-terstruktur, seperti JSON atau BSON. Setiap dokumen dalam database ini dapat memiliki struktur yang berbeda, yang membuatnya fleksibel untuk menyimpan data yang bervariasi tanpa persyaratan skema yang ketat.
+Graph database adalah sistem manajemen basis data yang dirancang khusus untuk menyimpan dan mengelola data yang memiliki struktur berbentuk grafik atau jaringan, dengan elemen-elemen seperti node dan edge yang mewakili entitas dan hubungan di antara mereka.
 
 ## [Storage](/golang/library/storage.md)
 
@@ -56,7 +56,7 @@ Library routing adalah kumpulan alat atau modul yang dirancang khusus untuk meng
 
 ## [Queue](/golang/library/queueing.md)
 
-Messaging queue adalah sistem perangkat lunak yang digunakan untuk mengirim, menerima, dan mengelola pesan antara komponen atau aplikasi yang beroperasi secara terdistribusi. Ini memungkinkan aplikasi untuk berkomunikasi secara asinkron, memisahkan produsen pesan (pengirim) dari konsumen pesan (penerima), dan dapat digunakan untuk mengatasi lonjakan lalu lintas, menjaga keseimbangan beban, dan memastikan skalabilitas dalam lingkungan sistem yang besar dan kompleks. 
+Messaging queue adalah sistem perangkat lunak yang digunakan untuk mengirim, menerima, dan mengelola pesan antara komponen atau aplikasi yang beroperasi secara terdistribusi. Ini memungkinkan aplikasi untuk berkomunikasi secara asinkron, memisahkan produsen pesan (pengirim) dari konsumen pesan (penerima), dan dapat digunakan untuk mengatasi lonjakan lalu lintas, menjaga keseimbangan beban, dan memastikan skalabilitas dalam lingkungan sistem yang besar dan kompleks.
 
 ## [Pub-sub](/golang/library/pubsub.md)
 
