@@ -84,15 +84,18 @@ CLI Operation merujuk kepada penggunaan Command Line Interface (CLI) untuk melak
 
 ## [XML Processing](/javascript-or-typescript/library/xml_processing.md)
 
-dikarenakan NestJS memiliki XML parser bawaaan, jadi pilihan utama tetap menggunakan XML yang berada pada native Nest
+**XML Parser** adalah alat yang digunakan untuk membaca data dari dokumen XML dan mengubahnya menjadi format yang dapat digunakan oleh program lain.
+
+**XML Builder** adalah alat yang digunakan untuk membuat dokumen XML dari data yang disediakan oleh program.
 
 ## [Packaging Tools](/javascript-or-typescript/library/packaging_tools.md)
 
-Dikarenakan skoring npm lebih tinggi dan memiliki banyak fitur, jadi kami memilih npm sebagai Packaging Tools utama.
+"packaging tools" biasanya merujuk pada alat yang digunakan untuk mengelola dan mengemas dependensi aplikasi serta aplikasi itu sendiri menjadi bentuk yang siap untuk distribusi atau deployment.
 
 ## [sdk](/javascript-or-typescript/library/sdk.md)
 
-Untuk Node JS version, kami memilih versi 20.9.0 LTS sebagai acuan untuk digunakan pada proyek-proyek kedepannya.
+Node.js version merujuk pada versi spesifik dari Node.js yang telah dirilis. Versi Node.js yang berbeda termasuk perbaikan bug, peningkatan performa, dan fitur baru. Penting untuk mengetahui versi Node.js yang digunakan dalam proyek karena perbedaan versi dapat mempengaruhi kompatibilitas dan fungsi dari kode dan paket yang digunakan.
 
 ## [Unit Test](/javascript-or-typescript/library/unit_test.md)
 
+Unit testing adalah proses pengujian pada tingkat komponen atau unit individu dalam backend. Unit yang dimaksud bisa berupa kode, fungsi, metode, prosedur, modul, atau objek tersendiri. Tujuan dari pengujian ini adalah untuk memvalidasi bahwa setiap unit kode software sudah bisa bekerja sesuai harapan.

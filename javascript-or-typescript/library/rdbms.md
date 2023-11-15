@@ -2,7 +2,7 @@
 
 ## Definition
 
-Dalam pengembangan aplikasi berbasis Node.js, memilih sebuah ORM yang tepat adalah salah satu keputusan penting yang akan mempengaruhi bagaimana kita berinteraksi dengan basis data dan menentukan struktur dari kode basis data kita. Sequelize, TypeORM, dan Prisma adalah tiga ORM yang populer dalam ekosistem Node.js, masing-masing menawarkan pendekatan yang berbeda dalam menangani interaksi basis data. 
+Dalam pengembangan aplikasi berbasis Node.js, memilih sebuah ORM yang tepat adalah salah satu keputusan penting yang akan mempengaruhi bagaimana kita berinteraksi dengan basis data dan menentukan struktur dari kode basis data kita. Sequelize, TypeORM, dan Prisma adalah tiga ORM yang populer dalam ekosistem Node.js, masing-masing menawarkan pendekatan yang berbeda dalam menangani interaksi basis data.
 
 ## Sequilize
 
@@ -16,9 +16,7 @@ TypeORM adalah ORM yang sangat fleksibel dan modular, menawarkan dukungan luas u
 
 Prisma, di sisi lain, adalah pendatang baru yang menawarkan pendekatan yang berbeda dari ORM tradisional, di mana ia bertindak sebagai layer query builder yang menghasilkan akses data yang aman dan efisien, dengan dukungan kuat untuk TypeScript dan flow-typing.
 
-
 ## Scoring sheet
-
 
 | Kriteria      | Sequelize | TypeORM | Prisma |
 |---------------|-----------|---------|--------|
@@ -31,15 +29,6 @@ Prisma, di sisi lain, adalah pendatang baru yang menawarkan pendekatan yang berb
 | Extensible    | 3         | 4       | 3      |
 | Size          | 3         | 3       | 3      |
 | **Total Score**   | **30**      | **31**    | **30**    |
-
-- **Maintenance**: Sequelize, TypeORM, dan Prisma semuanya mendapatkan skor 4 karena pemeliharaannya yang rutin dan teratur.
-- **Reputable**: Ketiga library ini dikembangkan oleh tim pengembang yang dikenal dan memiliki reputasi baik di komunitas Node.js, sehingga semuanya mendapatkan skor 4.
-- **Compatibility**: Sequelize, TypeORM, dan Prisma semuanya sangat kompatibel dengan berbagai lingkungan dan dapat digunakan bersamaan dengan berbagai library lainnya, sehingga semuanya mendapatkan skor 4.
-- **Community**: Ketiga library ini memiliki komunitas pengguna yang besar dan aktif, baik di tingkat lokal maupun global, sehingga semuanya mendapatkan skor 4.
-- **Documentation**: Sequelize, TypeORM, dan Prisma semuanya memiliki dokumentasi yang lengkap dan terstruktur dengan baik, sehingga semuanya mendapatkan skor 4.
-- **Licensing**: Sequelize, TypeORM, dan Prisma semuanya adalah perangkat lunak open source, sehingga semuanya mendapatkan skor 4.
-- **Extensible**: Sequelize dan Prisma mendapatkan skor 3 karena meskipun dapat diperluas, mungkin memerlukan upaya lebih untuk melakukan hal tersebut. Di sisi lain, TypeORM mendapatkan skor 4 karena lebih mudah diperluas.
-- **Size**: Ukuran Sequelize, TypeORM, dan Prisma relatif kecil, yang membuatnya ideal untuk penggunaan di cloud, sehingga semuanya mendapatkan skor 3.
 
 ## Conclusion
 

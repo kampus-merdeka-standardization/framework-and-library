@@ -1,6 +1,6 @@
 # Logging Library : Pino vs Winston
 
-# Definition
+## Definition
 
 Dalam pengembangan aplikasi berbasis Node.js, pencatatan atau logging adalah salah satu aspek penting untuk memastikan bahwa aplikasi berjalan dengan lancar dan masalah dapat dideteksi dan diperbaiki dengan cepat. Pino dan Winston adalah dua pustaka logging yang populer dalam ekosistem Node.js, masing-masing dengan kelebihan dan fitur-fitur uniknya sendiri.
 
@@ -13,6 +13,7 @@ Pino adalah pustaka logging untuk Node.js yang dikenal dengan kinerja tinggi dan
 Winston, di sisi lain, adalah pustaka logging universal yang menawarkan kemampuan logging yang sangat kustomisasi. Dengan fitur transport yang memungkinkan pencatatan log ke berbagai sumber penyimpanan dan format yang kustomisasi, Winston menyediakan solusi logging yang fleksibel dan robust untuk aplikasi-aplikasi skala besar.
 
 ## Scoring sheet
+
 | Kriteria      | Pino    | Winston |
 |---------------|---------|---------|
 | Maintenance   | 4       | 3       |
@@ -24,17 +25,6 @@ Winston, di sisi lain, adalah pustaka logging universal yang menawarkan kemampua
 | Extensible    | 4       | 4       |
 | Size          | 4       | 4       |
 | **Total Score**   | **32**    | **31**    |
-
-
-- **Maintenance**: Pino mendapatkan skor 4 karena pemeliharaannya yang rutin dan teratur. Winston mendapatkan skor 3 karena meskipun masih dipelihara, frekuensinya tidak sebanyak Pino.
-- **Reputable**: Kedua library ini dikembangkan oleh tim pengembang yang dikenal dan memiliki reputasi baik di komunitas Node.js, sehingga keduanya mendapatkan skor 4.
-- **Compatibility**: Pino dan Winston sangat kompatibel dengan berbagai versi Node.js dan dapat digunakan bersamaan dengan berbagai library lainnya, sehingga keduanya mendapatkan skor 4.
-- **Community**: Kedua library ini memiliki komunitas pengguna yang besar dan aktif, baik di tingkat lokal maupun global, sehingga keduanya mendapatkan skor 4.
-- **Documentation**: Pino dan Winston memiliki dokumentasi yang lengkap dan terstruktur dengan baik, sehingga keduanya mendapatkan skor 4.
-- **Licensing**: Pino dan Winston adalah perangkat lunak open source, sehingga keduanya mendapatkan skor 4.
-- **Extensible**: Pino dan Winston mudah diperluas dan disesuaikan sesuai kebutuhan pengguna, sehingga keduanya mendapatkan skor 4.
-- **Size**: Ukuran Pino dan Winston sangat kecil, yang membuatnya ideal untuk penggunaan di cloud, sehingga keduanya mendapatkan skor 4.
-
 
 ## Conclusion
 
