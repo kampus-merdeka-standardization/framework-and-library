@@ -38,7 +38,9 @@ github.com/stretchr/testify/http (deprecated)
 
 ## How To Use
 
-*Import* `testify/assert` *package* ke dalam code:
+File untuk keperluan testing dipisah dengan file utama, namanya harus berakhiran `_test.go`, dan package-nya harus sama. Unit test di Go dituliskan dalam bentuk fungsi, yang memiliki parameter yang bertipe `*testing.T`, dengan nama fungsi harus diawali kata **Test**. 
+
+Untuk menggunakan _library_ testify *Import* `testify/assert` *package* ke dalam code:
 
 ```go
 package name
@@ -47,6 +49,12 @@ import (
     "testing"
     "github.com/stretchr/testify/assert"
 )
+```
+
+Gunakan perintah `go test` di terminal untuk menjalankan test:
+
+```sh
+go test
 ```
 
 ### true/false
