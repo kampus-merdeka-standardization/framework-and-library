@@ -31,4 +31,4 @@ Dalam bahasa pemrograman Go (Golang), terdapat library yang dikenal sebagai "gin
 
 ## Conclusion
 
-Berdasarkan score yang didapat, library fiberprometheus memiliki angka yang paling besar. Selain itu, fiberprometheus juga compatible dengan project-project yang ada di Telkomsel karena kebanyakan sudah memakai framework Fiber. Jadi pilihan yang tepat untuk library monitoring adalah Fiber.
+Berdasarkan score yang didapat, library fiberprometheus memiliki angka yang paling besar. Selain itu, fiberprometheus juga compatible dengan project-project yang ada di **T** karena kebanyakan sudah memakai framework Fiber. Jadi pilihan yang tepat untuk library monitoring adalah Fiber.

@@ -27,4 +27,4 @@ Library cron untuk go, yang merupakan proyek open source yang dapat digunakan un
 
 ## Conclusion
 
-Dari kedua library scheduler ini, Gocron adalah pilihan terbaik. Gocron masih terus dan sering dilakukan update. Gocron memiliki jumlah star yang cukup banyak, yaitu 4.2k di repository github. Gocron juga sudah digunakan di banyak project milik Telkomsel.
+Dari kedua library scheduler ini, Gocron adalah pilihan terbaik. Gocron masih terus dan sering dilakukan update. Gocron memiliki jumlah star yang cukup banyak, yaitu 4.2k di repository github. Gocron juga sudah digunakan di banyak project milik **T**.

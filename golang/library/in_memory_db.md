@@ -8,4 +8,4 @@ Library Go Redis adalah sebuah library yang digunakan untuk berinteraksi dengan 
 
 ## Conclusion
 
-Untuk library in-memory DB dapat menggunakan Go Redis. Library ini dirancang untuk mendukung database Redis. Selain itu, library Go Redis sudah digunakan di semua project yang ada di Telkomsel. Jadi pilihan yang tepat untuk library in-memory DB adalah Go Redis.
+Untuk library in-memory DB dapat menggunakan Go Redis. Library ini dirancang untuk mendukung database Redis. Selain itu, library Go Redis sudah digunakan di semua project yang ada di **T**. Jadi pilihan yang tepat untuk library in-memory DB adalah Go Redis.

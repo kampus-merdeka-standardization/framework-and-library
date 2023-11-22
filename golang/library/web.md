@@ -30,4 +30,4 @@ Gorilla Mux adalah framework yang sangat berguna dalam ekosistem bahasa pemrogra
 
 ## Conclusion
 
-Berdasarkan hasil scoring, Fiber memiliki angka yang paling besar. Fiber memiliki hasil yang paling baik dalam benchmark. Fiber juga sudah digunakan di banyak project di Telkomsel. Jadi Fiber adalah pilihan yang baik untuk library Web
+Berdasarkan hasil scoring, Fiber memiliki angka yang paling besar. Fiber memiliki hasil yang paling baik dalam benchmark. Fiber juga sudah digunakan di banyak project di **T**. Jadi Fiber adalah pilihan yang baik untuk library Web

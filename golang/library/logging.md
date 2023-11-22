@@ -30,4 +30,4 @@ Logrus adalah logger terstruktur untuk Go (golang), sepenuhnya kompatibel dengan
 
 ## Conclusion
 
-Dari ketiga library logging ini, Zap adalah pilihan terbaik. Zap masih terus dan sering dilakukan update. Zap juga dibuat dan didukung oleh perusahaan besar, yaitu Uber. Zap juga sudah digunakan di banyak project milik Telkomsel.
+Dari ketiga library logging ini, Zap adalah pilihan terbaik. Zap masih terus dan sering dilakukan update. Zap juga dibuat dan didukung oleh perusahaan besar, yaitu Uber. Zap juga sudah digunakan di banyak project milik **T**.

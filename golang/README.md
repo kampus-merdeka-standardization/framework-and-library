@@ -4,11 +4,11 @@
 
 ### Web
 
-Berdasarkan hasil scoring, [Fiber](https://github.com/gofiber/fiber) memiliki angka yang paling besar. Fiber memiliki hasil yang paling baik dalam benchmark. Fiber juga sudah digunakan di banyak project di Telkomsel. Jadi Fiber adalah pilihan yang baik untuk library Web.
+Berdasarkan hasil scoring, [Fiber](https://github.com/gofiber/fiber) memiliki angka yang paling besar. Fiber memiliki hasil yang paling baik dalam benchmark. Fiber juga sudah digunakan di banyak project di **T**. Jadi Fiber adalah pilihan yang baik untuk library Web.
 
 ### Logging
 
-Dari ketiga library logging ini, [Zap](https://github.com/uber-go/zap) adalah pilihan terbaik. Zap masih terus dan sering dilakukan update. Zap juga dibuat dan didukung oleh perusahaan besar, yaitu Uber. Zap juga sudah digunakan di banyak project milik Telkomsel.
+Dari ketiga library logging ini, [Zap](https://github.com/uber-go/zap) adalah pilihan terbaik. Zap masih terus dan sering dilakukan update. Zap juga dibuat dan didukung oleh perusahaan besar, yaitu Uber. Zap juga sudah digunakan di banyak project milik **T**.
 
 ### Rest Client
 
@@ -20,7 +20,7 @@ Berdasarkan score yang didapat, library [Viper](https://github.com/spf13/viper) 
 
 ### Monitoring
 
-Berdasarkan score yang didapat, library [Fiberprometheus](https://github.com/ansrivas/fiberprometheus) memiliki angka yang paling besar. Selain itu, fiberprometheus juga compatible dengan project-project yang ada di Telkomsel karena kebanyakan sudah memakai framework Fiber. Jadi pilihan yang tepat untuk library monitoring adalah Fiber.
+Berdasarkan score yang didapat, library [Fiberprometheus](https://github.com/ansrivas/fiberprometheus) memiliki angka yang paling besar. Selain itu, fiberprometheus juga compatible dengan project-project yang ada di **T** karena kebanyakan sudah memakai framework Fiber. Jadi pilihan yang tepat untuk library monitoring adalah Fiber.
 
 ### RDBMS
 
@@ -32,7 +32,7 @@ Gunakan official library yang sudah disediakan oleh Golang atau yang dibuat oleh
 
 ### In-memory DB
 
-Untuk library in-memory DB dapat menggunakan Go Redis. Library ini dirancang untuk mendukung database Redis. Selain itu, library Go Redis sudah digunakan di semua project yang ada di Telkomsel. Jadi pilihan yang tepat untuk library in-memory DB adalah Go Redis.
+Untuk library in-memory DB dapat menggunakan Go Redis. Library ini dirancang untuk mendukung database Redis. Selain itu, library Go Redis sudah digunakan di semua project yang ada di **T**. Jadi pilihan yang tepat untuk library in-memory DB adalah Go Redis.
 
 ### GraphDB
 
@@ -64,7 +64,7 @@ Karena library pubsub biasanya disediakan oleh penyedia service tersebut, maka g
 
 ### Scheduler
 
-Dari kedua library scheduler ini, [Gocron](https://github.com/go-co-op/gocron) adalah pilihan terbaik. Gocron masih terus dan sering dilakukan update. Gocron memiliki jumlah star yang cukup banyak, yaitu 4.2k di repository github. Gocron juga sudah digunakan di banyak project milik Telkomsel.
+Dari kedua library scheduler ini, [Gocron](https://github.com/go-co-op/gocron) adalah pilihan terbaik. Gocron masih terus dan sering dilakukan update. Gocron memiliki jumlah star yang cukup banyak, yaitu 4.2k di repository github. Gocron juga sudah digunakan di banyak project milik **T**.
 
 ### CLI
 
@@ -92,4 +92,4 @@ Menggunakan package [testify](https://github.com/stretchr/testify) daripada stan
 
 ## Web Framework
 
-Saat ini web framework yang sedang ramai dibicarakan adalan Gin dan Fiber. Jika ingin memprioritaskan kinerja tinggi dan memiliki pengalaman dengan Go, Gin mungkin merupakan pilihan yang lebih baik untuk aplikasi yang kompleks dan *high traffic*. Di sisi lain, jika menginginkan kesederhanaan, *asynchronus handling*, dan minimalis, Fiber bisa menjadi pilihan yang tepat, terutama untuk proyek berukuran kecil hingga menengah. Berdasarkan score yang didapat, Fiber memiliki angka yang lebih besar. Fiber juga sudah digunakan di hampir semua project milik Telkomsel. Jadi untuk web framework gunakan [Fiber](https://github.com/gofiber/fiber).
+Saat ini web framework yang sedang ramai dibicarakan adalan Gin dan Fiber. Jika ingin memprioritaskan kinerja tinggi dan memiliki pengalaman dengan Go, Gin mungkin merupakan pilihan yang lebih baik untuk aplikasi yang kompleks dan *high traffic*. Di sisi lain, jika menginginkan kesederhanaan, *asynchronus handling*, dan minimalis, Fiber bisa menjadi pilihan yang tepat, terutama untuk proyek berukuran kecil hingga menengah. Berdasarkan score yang didapat, Fiber memiliki angka yang lebih besar. Fiber juga sudah digunakan di hampir semua project milik **T**. Jadi untuk web framework gunakan [Fiber](https://github.com/gofiber/fiber).
